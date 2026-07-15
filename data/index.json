@@ -136,27 +136,27 @@
     },
     {
       "month": "2026-03",
-      "count": 67,
+      "count": 68,
       "path": "tcso-jail/2026-03.json"
     },
     {
       "month": "2026-04",
-      "count": 100,
+      "count": 103,
       "path": "tcso-jail/2026-04.json"
     },
     {
       "month": "2026-05",
-      "count": 104,
+      "count": 105,
       "path": "tcso-jail/2026-05.json"
     },
     {
       "month": "2026-06",
-      "count": 167,
+      "count": 169,
       "path": "tcso-jail/2026-06.json"
     },
     {
       "month": "2026-07",
-      "count": 102,
+      "count": 106,
       "path": "tcso-jail/2026-07.json"
     }
   ]

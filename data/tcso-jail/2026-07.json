@@ -1023,6 +1023,18 @@
     "source": "tcso-jail",
     "agency": "Thurston County Sheriff",
     "type": "booking",
+    "datetime": "2026-07-13T00:00:00",
+    "nature": "VIOLATION OF NO CONTACT ORDER DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610093534",
+    "raw_hash": "c9afac6faa3ea9758d8d19df8daca2f4867472c1ac8cf0f5aa14c6ada17b1d74",
+    "id": "89b8459bf5117297"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
     "datetime": "2026-07-14T00:00:00",
     "nature": "DWLS 3rd DEGREE",
     "location_block": "",
@@ -1180,6 +1192,30 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-15T00:00:00",
+    "nature": "ASSAULT 4TH - DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2023189",
+    "raw_hash": "459f6cf6d3a7caab81c6d567b6b2f458fa69d88f5e88aae1de641fd7cf6e151e",
+    "id": "18298a5cf0b85324"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-15T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410129034",
+    "raw_hash": "483c161e9bcb7225dc2129ba6f2003d4c5529ade79ff7ba83fced03c7536fdb3",
+    "id": "545f8e0ce011ef0b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-15T00:00:00",
     "nature": "THEFT 2ND DEGREE",
     "location_block": "",
     "city": "",
@@ -1222,5 +1258,17 @@
     "case_number": "25M00243",
     "raw_hash": "cb56fb76ee1fba1d482220517530d67a2ca4f0574eda277e76b837eec9b73172",
     "id": "aff436eaca0dc796"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-15T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410129034",
+    "raw_hash": "c6e52c65b470602a4f03e95739731107518a305b22b3077dda9118ac27f7221f",
+    "id": "d8ac324d4ff1a8a1"
   }
 ]
