@@ -1,0 +1,86 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-09-09T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 2ND DEG-DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410114234",
+    "raw_hash": "1ccf63d1b29d85548c0740ea65f7b21b8e9019f02f86ad75d4b15861fad0227b",
+    "id": "1523c1a70934baec"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-09-09T00:00:00",
+    "nature": "MAKING/HAVING BURGLARY TOOLS",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410114234",
+    "raw_hash": "9f45b3d4c8021bdcf5f1b92c575db0728f9c702eed4f4c68880682fb0e17a8ee",
+    "id": "1653f52702667458"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-09-09T00:00:00",
+    "nature": "BURGLARY 1ST DEGREE DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410114234",
+    "raw_hash": "f7a9f28385c5e744f4565eee66443985863c32e427c2c04e1edea59a4168d7f7",
+    "id": "2851fc5942db45a5"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-09-09T00:00:00",
+    "nature": "STALKING",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410114234",
+    "raw_hash": "c72e2b8f4ad7df4702f6f3651ca4753228f7c7a4d24c533ccfe7300d947486ac",
+    "id": "4dca50e3745209b2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-09-09T00:00:00",
+    "nature": "HARASSMENT THREAT TO KILL DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410114234",
+    "raw_hash": "e8a681c054562380f379f24dd72f44a940a1cbc10b505b157da0e4fa4bc07888",
+    "id": "55152eb98a6be793"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-09-09T00:00:00",
+    "nature": "ATTEMPTED KIDNAPPING 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410114234",
+    "raw_hash": "5d88d0886f5d4bc17ba70ca27fdf4741d9b4ca3eb86d8a209eedad6ab58e3e5c",
+    "id": "ada86d341f592134"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-09-09T00:00:00",
+    "nature": "ATTEMPTED MURDER 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410114234",
+    "raw_hash": "53fb39ba336664b052f84a3c0357d4b11e511261a89014775eb081838bb60f6a",
+    "id": "b5e75ddc1c894038"
+  }
+]

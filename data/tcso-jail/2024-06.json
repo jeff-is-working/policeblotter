@@ -1,0 +1,50 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-06-21T00:00:00",
+    "nature": "ATTEMPT TO ELUDE PURSUING POLICE VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410075534",
+    "raw_hash": "36425536fdce14a01c47f168f8367128706fe5ec9d7dc32b01c6a489eb823bea",
+    "id": "4df6e89f64e36304"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-06-21T00:00:00",
+    "nature": "MANSLAUGHTER 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410075534",
+    "raw_hash": "9e5f2e5bbddff0ea39d61dbf4c13fcce2e251a514c6faf084f459e5aa1c151ef",
+    "id": "6c58818e1bf4c6b3"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-06-21T00:00:00",
+    "nature": "MURDER 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410075534",
+    "raw_hash": "cb5acf72827b75a3c170db662b0c6c066b36d922ffe43fff8827b9ea5b10bf2e",
+    "id": "70f3f56394d379a6"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-06-21T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE DOMESTIC VIOLENCE WHILE ARMED",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410075534",
+    "raw_hash": "27ef2d33ba602d132f484586ebaf277ae74c141936806cc2f736fca626d7f6b5",
+    "id": "80d86b85c9c39af0"
+  }
+]

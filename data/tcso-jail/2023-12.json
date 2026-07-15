@@ -1,0 +1,86 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2023-12-08T00:00:00",
+    "nature": "POSSESSION OF DEPICTIONS OF MINOR ENGAGED IN SEXUALLY EXPLICIT CONDUCT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310146834",
+    "raw_hash": "4a95b6fa9d9732b584b9345f9b47a2f40963222c352a59f88549bfdb9e4f9328",
+    "id": "21b26ae39e0c2496"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2023-12-08T00:00:00",
+    "nature": "DEALING IN DEPICTIONS OF A MINOR IN SEXUALLY EXPLICIT CONDUCT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310146834",
+    "raw_hash": "943f27be164a468d770f86bf88b278f5a15fb99b6cde93be7c7611c7768f1e36",
+    "id": "4223e3d283575408"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2023-12-08T00:00:00",
+    "nature": "RAPE OF A CHILD 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310146834",
+    "raw_hash": "7db7fdee0508e048420fd63a84bc0f9a0359e87cc76eb57e326e7a970dfe651d",
+    "id": "45d1c993f917d315"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2023-12-08T00:00:00",
+    "nature": "COMMERCIAL SEXUAL ABUSE OF A MINOR",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310146834",
+    "raw_hash": "b87f61a6d0ecd38074f81ae0765c9ca8a3383df9fcb61d1f839f81f0aaba475e",
+    "id": "4e4f597c024856ff"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2023-12-08T00:00:00",
+    "nature": "POSSESSION OF DEPICTIONS OF MINOR ENGAGED IN SEXUALLY EXPLICIT CONDUCT 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310146834",
+    "raw_hash": "cfde8127adcc6fc0e4cad6d9263457d4b5d27d5678540ba07350682df6a23a08",
+    "id": "82c7f352e87020f8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2023-12-08T00:00:00",
+    "nature": "COMMUNICATION WITH MINOR FOR IMMORAL PURPOSE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310146834",
+    "raw_hash": "a4f854888f191f41d47775adad02317ebaa1d8d2ac54d7cfb72fc53c615e3025",
+    "id": "94f9c0f5565f30aa"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2023-12-08T00:00:00",
+    "nature": "SEXUAL EXPLOITATION OF A MINOR",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310146834",
+    "raw_hash": "87cec92af5124ba0f12bb1cde46ee0a5d1bdf2039aeeb53658ed0b3d7ffd5a77",
+    "id": "c2d05eb1e0d68a60"
+  }
+]

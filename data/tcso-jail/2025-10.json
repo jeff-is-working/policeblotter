@@ -1,0 +1,122 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-01T00:00:00",
+    "nature": "CUSTODIAL ASSAULT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510130334",
+    "raw_hash": "3a95a95928e7987f22bcfc4076cd4d1562a0f224c650a7fa87daae511d319e9a",
+    "id": "e77251b35210c975"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-06T00:00:00",
+    "nature": "UNLAWFUL POSSESSION OF A FIREARM 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510131934",
+    "raw_hash": "73c34b8f77f4e017fb83ff76956fc0606e80f8fc74e9ca85ca7fda1664a014c2",
+    "id": "775bb781038ac435"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-07T00:00:00",
+    "nature": "VIOLATION OF PROTECTION ORDER DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510130934",
+    "raw_hash": "e5b80443ef9cdc12ce2603c841b62a92261a0c8e0fd89346a97e97c039abee42",
+    "id": "61acfc42f590ed28"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-07T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510130934",
+    "raw_hash": "2d23b6af756d9b6b9290172a86e3c433300c8c216a63ea9c481c6b01e41c6376",
+    "id": "828c8c84e473e5d7"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-07T00:00:00",
+    "nature": "ATTEMPT TO ELUDE PURSUING POLICE VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510130934",
+    "raw_hash": "e67e44292b7a4b1dad0fbbe79aef4f426c458a9252ad3431c2abf3c2b851b90a",
+    "id": "9587587103fe55c4"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-10T00:00:00",
+    "nature": "FELONY HARASSMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510133734",
+    "raw_hash": "02b85e859f36be36252bdf4a9df8b612fc66dfc7cd67ac2d320d74843d400030",
+    "id": "0a6984cac6291ae5"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-13T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 2ND DEGREE (EXCESS $750)",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510134434",
+    "raw_hash": "b7bbf761302edf39d4927cedf0ca3db6ecf2a4ffffc73b9ed729f8262c2c515b",
+    "id": "56c541fef7d115bc"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-16T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510060934",
+    "raw_hash": "80dfb8ed647295d6064ef4cd5d7b61961c4edbb155367bc78ad32151fc21aeff",
+    "id": "01be0db0ce0acc50"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-16T00:00:00",
+    "nature": "RESISTING ARREST",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510060934",
+    "raw_hash": "3aba3a1c43dd1a72c92f551de6479acb9164958efc209deb55db464f95d41374",
+    "id": "380dbca5bae64fa5"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-10-16T00:00:00",
+    "nature": "FELONY HARASSMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510060934",
+    "raw_hash": "c04b99dacd09ae043cf59c8652951e497ac1a9fb67a6458c853bb854018d8d55",
+    "id": "8ef4c51266c8756b"
+  }
+]

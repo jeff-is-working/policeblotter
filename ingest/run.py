@@ -11,11 +11,14 @@ from __future__ import annotations
 
 import sys
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from ingest import store
-from ingest.sources import tcso_calls
+from ingest.sources import nisqually, tcso_calls, tcso_jail
+
+# Rolling look-back for date-range sources; dedup handles the daily overlap.
+BOOKING_LOOKBACK_DAYS = 14
 
 DATA_DIR = Path("data")
 RAW_DIR = DATA_DIR / "raw"
@@ -49,7 +52,28 @@ def run() -> int:
     except Exception as exc:  # noqa: BLE001 - isolate per-source failure
         print(f"[ERROR] {tcso_calls.SOURCE}: {exc}", file=sys.stderr)
 
-    # Phase 2 sources (tcso_arcgis, tcso_jail, nisqually, p2c) plug in here.
+    # --- Nisqually jail bookings (in-custody, date-range over plain HTTP) ---
+    try:
+        today = datetime.now(timezone.utc)
+        date_from = (today - timedelta(days=BOOKING_LOOKBACK_DAYS)).strftime("%m/%d/%Y")
+        date_to = today.strftime("%m/%d/%Y")
+        recs = nisqually.fetch(date_from, date_to)
+        summary = store.write_records(recs, DATA_DIR)
+        print(f"[OK] {nisqually.SOURCE}: {summary['new']} new / {summary['written']} fetched")
+        successes += 1
+    except Exception as exc:  # noqa: BLE001 - isolate per-source failure
+        print(f"[ERROR] {nisqually.SOURCE}: {exc}", file=sys.stderr)
+
+    # --- TCSO corrections roster (current in-custody, charge-level) ---
+    try:
+        recs = tcso_jail.fetch()
+        summary = store.write_records(recs, DATA_DIR)
+        print(f"[OK] {tcso_jail.SOURCE}: {summary['new']} new / {summary['written']} fetched")
+        successes += 1
+    except Exception as exc:  # noqa: BLE001 - isolate per-source failure
+        print(f"[ERROR] {tcso_jail.SOURCE}: {exc}", file=sys.stderr)
+
+    # Remaining Phase 2 source (P2C city PDs, headless) plugs in here.
 
     if successes == 0:
         print("[ERROR] no sources ingested", file=sys.stderr)

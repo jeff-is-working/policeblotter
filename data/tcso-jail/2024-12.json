@@ -1,0 +1,26 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-12-07T00:00:00",
+    "nature": "RAPE OF A CHILD 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410151934",
+    "raw_hash": "72c448d770aaa088ed259dfd5add9f65337d33e3fd0641e4f675e907c14edc58",
+    "id": "1f3620255399adcf"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-12-07T00:00:00",
+    "nature": "KIDNAPPING 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410151934",
+    "raw_hash": "29c9d7196c36b0e50db8b3551a03b77eb8db7da2b88343dc4ca7b1bea5e385f0",
+    "id": "8e709ab7e4090167"
+  }
+]

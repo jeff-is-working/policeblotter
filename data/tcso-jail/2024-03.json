@@ -1,0 +1,74 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-03-12T00:00:00",
+    "nature": "MURDER 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410029534",
+    "raw_hash": "d5a28de290cdb9e6642e5c9353d1ab7199c6de798525918fabe13ca646736fee",
+    "id": "48dc3c41cfdbe46d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-03-12T00:00:00",
+    "nature": "TAMPER WITH PHYSICAL EVIDENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410029534",
+    "raw_hash": "f433c26416b5e478bd66261dd5aea6026bde1bc1aa998df9edbd2ab683600a9a",
+    "id": "512012e7afc91153"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-03-12T00:00:00",
+    "nature": "UPCS SYNTHETIC NARCOTIC",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410029534",
+    "raw_hash": "f365793e47add6aa6aa42d6b2f5f4e5142201c6bdfe36ece6eca31c8033a9a36",
+    "id": "600a3ca07cb70657"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-03-12T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410029534",
+    "raw_hash": "47e63a23da81339a689f7f323ad9cd941620e7ae7ddbf1206ec8f05badfec9f0",
+    "id": "85bf4eeb9e0ac86a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-03-12T00:00:00",
+    "nature": "UNLAWFUL IMPRISONMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410029534",
+    "raw_hash": "21f7d1278e39097344c480babc242da89701d64cbada30cfaf8e5f1cfccedd57",
+    "id": "bf8a87608332cfa2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-03-12T00:00:00",
+    "nature": "UNLAWFUL POSSESSION OF A FIREARM 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410029534",
+    "raw_hash": "9d8b5b2b6ef37ed8938e7373d9ab5eff1581173dd7751b6fa90a90b65601cc3a",
+    "id": "d5460379053e9a12"
+  }
+]

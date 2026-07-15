@@ -1,9 +1,163 @@
 {
+  "nisqually-jail": [
+    {
+      "month": "2026-05",
+      "count": 10,
+      "path": "nisqually-jail/2026-05.json"
+    },
+    {
+      "month": "2026-06",
+      "count": 75,
+      "path": "nisqually-jail/2026-06.json"
+    },
+    {
+      "month": "2026-07",
+      "count": 184,
+      "path": "nisqually-jail/2026-07.json"
+    }
+  ],
   "tcso-calls": [
     {
       "month": "2026-07",
       "count": 286,
       "path": "tcso-calls/2026-07.json"
+    }
+  ],
+  "tcso-jail": [
+    {
+      "month": "2023-12",
+      "count": 7,
+      "path": "tcso-jail/2023-12.json"
+    },
+    {
+      "month": "2024-01",
+      "count": 2,
+      "path": "tcso-jail/2024-01.json"
+    },
+    {
+      "month": "2024-03",
+      "count": 6,
+      "path": "tcso-jail/2024-03.json"
+    },
+    {
+      "month": "2024-06",
+      "count": 4,
+      "path": "tcso-jail/2024-06.json"
+    },
+    {
+      "month": "2024-07",
+      "count": 2,
+      "path": "tcso-jail/2024-07.json"
+    },
+    {
+      "month": "2024-09",
+      "count": 7,
+      "path": "tcso-jail/2024-09.json"
+    },
+    {
+      "month": "2024-10",
+      "count": 9,
+      "path": "tcso-jail/2024-10.json"
+    },
+    {
+      "month": "2024-11",
+      "count": 9,
+      "path": "tcso-jail/2024-11.json"
+    },
+    {
+      "month": "2024-12",
+      "count": 2,
+      "path": "tcso-jail/2024-12.json"
+    },
+    {
+      "month": "2025-01",
+      "count": 14,
+      "path": "tcso-jail/2025-01.json"
+    },
+    {
+      "month": "2025-02",
+      "count": 11,
+      "path": "tcso-jail/2025-02.json"
+    },
+    {
+      "month": "2025-04",
+      "count": 11,
+      "path": "tcso-jail/2025-04.json"
+    },
+    {
+      "month": "2025-05",
+      "count": 6,
+      "path": "tcso-jail/2025-05.json"
+    },
+    {
+      "month": "2025-06",
+      "count": 59,
+      "path": "tcso-jail/2025-06.json"
+    },
+    {
+      "month": "2025-07",
+      "count": 11,
+      "path": "tcso-jail/2025-07.json"
+    },
+    {
+      "month": "2025-08",
+      "count": 21,
+      "path": "tcso-jail/2025-08.json"
+    },
+    {
+      "month": "2025-09",
+      "count": 34,
+      "path": "tcso-jail/2025-09.json"
+    },
+    {
+      "month": "2025-10",
+      "count": 10,
+      "path": "tcso-jail/2025-10.json"
+    },
+    {
+      "month": "2025-11",
+      "count": 20,
+      "path": "tcso-jail/2025-11.json"
+    },
+    {
+      "month": "2025-12",
+      "count": 27,
+      "path": "tcso-jail/2025-12.json"
+    },
+    {
+      "month": "2026-01",
+      "count": 50,
+      "path": "tcso-jail/2026-01.json"
+    },
+    {
+      "month": "2026-02",
+      "count": 46,
+      "path": "tcso-jail/2026-02.json"
+    },
+    {
+      "month": "2026-03",
+      "count": 67,
+      "path": "tcso-jail/2026-03.json"
+    },
+    {
+      "month": "2026-04",
+      "count": 100,
+      "path": "tcso-jail/2026-04.json"
+    },
+    {
+      "month": "2026-05",
+      "count": 104,
+      "path": "tcso-jail/2026-05.json"
+    },
+    {
+      "month": "2026-06",
+      "count": 167,
+      "path": "tcso-jail/2026-06.json"
+    },
+    {
+      "month": "2026-07",
+      "count": 102,
+      "path": "tcso-jail/2026-07.json"
     }
   ]
 }

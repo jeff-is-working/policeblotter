@@ -1,0 +1,74 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-05-10T00:00:00",
+    "nature": "RECKLESS DRIVING",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510059834",
+    "raw_hash": "d9229e2b67f3900d369c94ebd430d87ed5d607700cae84d907e7049a666782e9",
+    "id": "00a91074c5655588"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-05-10T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510059834",
+    "raw_hash": "ff7e37cbab79b9499244a45b6be8b2a167d362370269742c8b825546790010f9",
+    "id": "1db9a368e2904337"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-05-10T00:00:00",
+    "nature": "RECKLESS ENDANGERMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510059834",
+    "raw_hash": "7699582442af8a32ad8a40322a4026ee80f4936a5abd03ae5b277d301ad22804",
+    "id": "3253823ef6c1cf26"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-05-10T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510059834",
+    "raw_hash": "bbbed5f7037d5d9edcc1ba7dfbfaff8a945685148e3f04be6895137182142b09",
+    "id": "73f1216093f0872d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-05-10T00:00:00",
+    "nature": "MANSLAUGHTER 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510059834",
+    "raw_hash": "0b500d3ed451f75c93f43b63a1d433d9b579fda9e5b5fcc03c760088bd78debe",
+    "id": "8ec4634cf1d98654"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-05-10T00:00:00",
+    "nature": "HIT AND RUN ATTENDED - VEHICLE AND /OR PROPERTY",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510059834",
+    "raw_hash": "7d2aa6e46e73901ff798e0b688f5ed5b1588f5c135b9b280b3072b75cdc638c9",
+    "id": "e974e3fc6036e7bf"
+  }
+]

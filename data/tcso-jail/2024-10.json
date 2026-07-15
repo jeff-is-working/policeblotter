@@ -1,0 +1,110 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-10-10T00:00:00",
+    "nature": "RAPE 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410127734",
+    "raw_hash": "2a0a23d456cce22cbacf22d5517c5c2c81a4ca62ee8c54f59cff06e31043777b",
+    "id": "be05156e4a928aad"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-10-10T00:00:00",
+    "nature": "ASSAULT 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410127734",
+    "raw_hash": "88f723df9c0fbe10916f0bd91969adb1e4ec5ca92779e3f01f7da97ec5573baf",
+    "id": "dd1154eba7565541"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-10-10T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410127734",
+    "raw_hash": "81041928d9bb9db4b125352d469977b70359bae2f2b6e87c9b7742bb2c33518d",
+    "id": "ff13b2c2b974bfb2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-10-17T00:00:00",
+    "nature": "ASSAULT 1ST DEGREE WHILE ARMED WITH A DEADLY WEAPON",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410129734",
+    "raw_hash": "e6255cab659f76b6e8fb93aefee371af181696c3ce9b0c748976d26ca7d82f69",
+    "id": "2451760f9721a6f9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-10-17T00:00:00",
+    "nature": "ATTEMPTED MURDER 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410129734",
+    "raw_hash": "d7f9a3fbeb29f1393302858ac2ab38b23a0b221f1fd4c63cb38236cff82388a6",
+    "id": "2470c4e20d5a0444"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-10-17T00:00:00",
+    "nature": "RESISTING ARREST",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410129734",
+    "raw_hash": "3599fffffa21774c1ec919c8ae161cd785f7423ea7f7d87b85b5391caebb2bd8",
+    "id": "442f2ef859921829"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-10-17T00:00:00",
+    "nature": "ASSAULT 1ST DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410129734",
+    "raw_hash": "b908459159db17238632b6033e6547c4b16a7bae57e9cf36a8b496539be96ac0",
+    "id": "8d14b2e0d2c57c13"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-10-29T00:00:00",
+    "nature": "BURGLARY 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410134334",
+    "raw_hash": "6f38fc833e6fedbe1ee1e36eaac5d14608565dc9a747e3d4ec2aa6e5ccd598f0",
+    "id": "aa259c1bdaca65bf"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-10-29T00:00:00",
+    "nature": "THEFT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410134334",
+    "raw_hash": "cd5e081a918d43a9d51a68aece00edc9329c2e942a561bb0d9c014893adb8e3d",
+    "id": "c471ee10d1f6306d"
+  }
+]

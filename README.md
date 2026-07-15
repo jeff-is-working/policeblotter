@@ -23,11 +23,11 @@ See [ACCESSIBILITY.md](ACCESSIBILITY.md) and [DATA-POLICY.md](DATA-POLICY.md).
 
 | Source | Coverage | Status |
 |--------|----------|--------|
-| TCSO 911 calls (`calls.csv`) | Sheriff calls for service, countywide | **Live (Phase 1)** |
-| TCSO ArcGIS crime layer | Sheriff incidents | Planned (Phase 2) |
-| TCSO jail roster | Current inmates | Planned (Phase 2) |
-| Nisqually jail (EIS Web Jail Viewer) | Bookings (no mugshots) | Planned (Phase 2) |
-| CentralSquare P2C | Lacey / Olympia / Tumwater PDs | Planned (Phase 2, headless) |
+| TCSO 911 calls (`calls.csv`) | Sheriff calls for service, countywide | **Live** |
+| TCSO jail roster | Current in-custody charges (no names) | **Live** |
+| Nisqually jail (EIS Web Jail Viewer) | In-custody bookings (no names, no mugshots) | **Live** |
+| CentralSquare P2C | Lacey / Olympia / Tumwater PDs | Planned (headless Playwright) |
+| TCSO ArcGIS crime layer | Sheriff incidents | Dropped - no public crime layer exists; `calls.csv` covers TCSO |
 
 The TCSO calls feed is a **same-day snapshot with no server-side history**, so the
 pipeline polls it daily and accumulates history in-repo via git.

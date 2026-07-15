@@ -1,0 +1,26 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-01-21T00:00:00",
+    "nature": "THEFT OF MOTOR VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410006934",
+    "raw_hash": "28c66c2f1e67cc3646d71b72e10ec58a50aea99c00d277cf7e33e6dc26563910",
+    "id": "68b0be2e1549bdeb"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2024-01-21T00:00:00",
+    "nature": "ATTEMPTED MURDER 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410006934",
+    "raw_hash": "8006ac84f2053aee18cbd9e3e39923f531667be3b01f99c7d5c492d3cdf0a907",
+    "id": "87c94335839cacbd"
+  }
+]
