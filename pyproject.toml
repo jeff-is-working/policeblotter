@@ -1,0 +1,15 @@
+[project]
+name = "policeblotter"
+version = "0.1.0"
+description = "Aggregated public police call and jail booking records for Thurston County, WA"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+
+[tool.setuptools]
+packages = ["ingest", "ingest.sources"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

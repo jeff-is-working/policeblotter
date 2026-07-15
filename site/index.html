@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Thurston County Police Blotter - Public Call & Booking Records</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header>
+    <h1>Thurston County Police Blotter</h1>
+    <p class="tagline">
+      Aggregated public call-for-service and jail booking records for Thurston County, WA.
+      Search by <strong>day</strong> and <strong>location</strong> only. This site does not
+      support searching by name and is not indexed by search engines.
+    </p>
+  </header>
+
+  <main id="main">
+    <section aria-labelledby="filters-heading">
+      <h2 id="filters-heading">Filter records</h2>
+      <form id="filters" aria-describedby="filters-help">
+        <p id="filters-help" class="help">
+          Choose a source, a date, and optionally a city. Results update below.
+        </p>
+        <div class="field">
+          <label for="source">Source</label>
+          <select id="source" name="source"></select>
+        </div>
+        <div class="field">
+          <label for="date">Date</label>
+          <input type="date" id="date" name="date">
+        </div>
+        <div class="field">
+          <label for="city">City / location</label>
+          <input type="text" id="city" name="city" list="cities"
+                 placeholder="e.g. Olympia" autocomplete="off"
+                 inputmode="text" aria-describedby="city-help">
+          <datalist id="cities"></datalist>
+          <span id="city-help" class="help">Filters by city or block-level location text.</span>
+        </div>
+        <button type="submit">Apply filters</button>
+      </form>
+    </section>
+
+    <section aria-labelledby="results-heading">
+      <h2 id="results-heading">Results</h2>
+      <p id="status" role="status" aria-live="polite">Loading available data&hellip;</p>
+      <div class="table-scroll">
+        <table id="results" hidden>
+          <caption class="visually-hidden">Filtered police call and booking records</caption>
+          <thead>
+            <tr>
+              <th scope="col">Date &amp; time</th>
+              <th scope="col">Agency</th>
+              <th scope="col">Type</th>
+              <th scope="col">Nature</th>
+              <th scope="col">Location (block level)</th>
+              <th scope="col">City</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <h2 class="visually-hidden">About this data</h2>
+    <p>
+      Records are sourced from public agency postings and are provided for
+      transparency. Locations are block-level only. No mugshots are collected or
+      displayed, and records are not searchable by person. People shown in booking
+      records are presumed innocent unless convicted. See the
+      <a href="https://github.com/jeff-is-working/policeblotter">source repository</a>
+      and its ACCESSIBILITY.md and takedown policy.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

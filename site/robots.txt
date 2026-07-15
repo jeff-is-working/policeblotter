@@ -1,0 +1,4 @@
+# This civic-transparency site is intentionally not indexed.
+# It must not become a name-searchable person-lookup tool.
+User-agent: *
+Disallow: /
