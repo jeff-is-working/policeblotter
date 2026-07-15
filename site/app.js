@@ -18,9 +18,16 @@ async function loadIndex() {
   return res.json();
 }
 
+const ALL_SOURCES = '__all__';
+
 function populateSources(index) {
   const sel = $('source');
   sel.innerHTML = '';
+  // "Show all" aggregates every source; it is the default selection.
+  const allOpt = document.createElement('option');
+  allOpt.value = ALL_SOURCES;
+  allOpt.textContent = 'Show all sources';
+  sel.appendChild(allOpt);
   Object.keys(index).forEach((src) => {
     const opt = document.createElement('option');
     opt.value = src;
@@ -29,13 +36,21 @@ function populateSources(index) {
   });
 }
 
-async function loadSource(source) {
-  const months = state.index[source] || [];
+async function loadPartitions(paths) {
   const all = [];
-  for (const part of months) {
-    const res = await fetch(`${DATA_BASE}/${part.path}`, { cache: 'no-cache' });
+  for (const path of paths) {
+    const res = await fetch(`${DATA_BASE}/${path}`, { cache: 'no-cache' });
     if (res.ok) all.push(...(await res.json()));
   }
+  return all;
+}
+
+async function loadSource(source) {
+  const sources = source === ALL_SOURCES ? Object.keys(state.index) : [source];
+  const paths = sources.flatMap((src) => (state.index[src] || []).map((p) => p.path));
+  const all = await loadPartitions(paths);
+  // Newest first so "show all" opens on the most recent activity.
+  all.sort((a, b) => (b.datetime || '').localeCompare(a.datetime || ''));
   state.source = source;
   state.rows = all;
   refreshCityList(all);
