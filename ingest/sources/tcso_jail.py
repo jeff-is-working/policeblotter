@@ -83,6 +83,52 @@ def parse_detail(detail_html: str) -> list[schema.Record]:
     return records
 
 
+_CHARGE_FULL = re.compile(
+    r"COURT:\s*(?P<court>.+?)\s*CAUSE NUMBER:\s*(?P<cause>\S+)\s*"
+    r"CHARGE:\s*(?P<charge>.+?)\s*BAIL:\s*(?P<bail>.+?)\s*"
+    r"ARREST DATE:\s*(?P<date>\d{1,2}/\d{1,2}/\d{4})",
+    re.S | re.I,
+)
+
+
+def parse_detail_full(detail_html: str, idnum: str = ""):
+    """Parse a TCSO detail page into a FullBooking (LOCAL-ONLY, has name).
+
+    The detail page has no booking number, so ``idnum`` (the roster id) is used
+    as the stable dedup key.
+    """
+    from ingest import full_schema
+
+    text = _clean(detail_html)
+    m = re.search(r'Charge Information for Inmate\s*"\s*(.*?)\s*"', text)
+    name_full = re.sub(r"\s+", " ", m.group(1)).strip() if m else ""
+    parts = name_full.split()
+    charges = []
+    arrest_date = ""
+    for cm in _CHARGE_FULL.finditer(text):
+        arrest_date = _iso(cm.group("date"))
+        charges.append(
+            full_schema.Charge(
+                charge=cm.group("charge").strip(),
+                court=cm.group("court").strip(),
+                cause_number=cm.group("cause").strip(),
+                bail=cm.group("bail").strip(),
+                arrest_date=arrest_date,
+            )
+        )
+    raw = {
+        "booking_number": idnum,
+        "inmate_id": idnum,
+        "name_full": name_full,
+        "name_first": parts[0] if parts else "",
+        "name_last": parts[-1] if len(parts) > 1 else "",
+        "name_middle": " ".join(parts[1:-1]) if len(parts) > 2 else "",
+        "arrest_date": arrest_date,
+        "custody_status": "IN CUSTODY",
+    }
+    return full_schema.from_raw(SOURCE, AGENCY, raw, charges)
+
+
 def _default_get(url: str, data: bytes | None = None, timeout: int = 30) -> str:
     req = urllib.request.Request(url, data=data, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=timeout) as resp:  # noqa: S310 known gov host

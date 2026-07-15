@@ -89,6 +89,68 @@ def parse_results(page_html: str) -> list[schema.Record]:
     return records
 
 
+def detail_url(booking_number: str) -> str:
+    return f"{HOST}/Home/BookingSearchDetail?BookingNumber={booking_number}"
+
+
+_LABEL_STOP = r"(?=[A-Z][A-Za-z .#/]*:|Personal Description|Charges:|Arrest Information|$)"
+
+
+def _field(text: str, label: str) -> str:
+    m = re.search(re.escape(label) + r":\s*" + r"(.*?)\s*" + _LABEL_STOP, text)
+    return m.group(1).strip() if m else ""
+
+
+def parse_detail_full(detail_html: str):
+    """Parse a Nisqually detail page into a FullBooking (LOCAL-ONLY, has name).
+
+    Imported lazily so the public pipeline never pulls the full schema.
+    """
+    from ingest import full_schema
+
+    text = _text(detail_html.replace("</strong>", " ").replace("<strong>", " "))
+    name_full = ""
+    # The name is the capitalized token(s) immediately before the custody status,
+    # e.g. "TESTONE TESTTWO IN CUSTODY as of 07/15/26". Anchor on the status to avoid
+    # grabbing repeated "Booking Search Detail" nav/heading text.
+    m = re.search(
+        r".*Booking Search Detail\s+(.+?)\s+"
+        r"(?:IN CUSTODY|OUT OF CUSTODY|RELEASED)\s+as of",
+        text, re.S,
+    )
+    if m:
+        name_full = re.sub(r"\s+", " ", m.group(1)).strip()
+    status = "IN CUSTODY" if "IN CUSTODY" in text else ("RELEASED" if "RELEASED" in text else "")
+    parts = name_full.split()
+    charges = []
+    for viol, level in re.findall(r"Violation:\s*(.*?)\s*(?:Level:\s*(\w*)|Add\. Desc|Arrest Information|$)", text):
+        viol = viol.strip()
+        if viol:
+            charges.append(full_schema.Charge(charge=viol, level=(level or "").strip()))
+    raw = {
+        "booking_number": _field(text, "Booking Number"),
+        "inmate_id": _field(text, "Inmate ID"),
+        "name_full": name_full,
+        "name_first": parts[0] if parts else "",
+        "name_last": " ".join(parts[1:]) if len(parts) > 1 else "",
+        "booking_date": _iso_any(_field(text, "Booking Date")),
+        "arrest_date": _iso_any(_field(text, "Arrest Date")),
+        "release_date": _iso_any(_field(text, "Released")),
+        "sched_release": _iso_any(_field(text, "Sched. Release")),
+        "custody_status": status,
+        "age": _field(text, "Age"),
+        "sex": _field(text, "Sex"),
+        "race": _field(text, "Race"),
+        "arrest_agency": _field(text, "Arrest Agency"),
+    }
+    return full_schema.from_raw(SOURCE, AGENCY, raw, charges)
+
+
+def _iso_any(date_s: str) -> str:
+    date_s = date_s.strip()
+    return _iso(date_s) if re.match(r"\d{1,2}/\d{1,2}/\d{4}", date_s) else ""
+
+
 def _result_url(date_from: str, date_to: str, page: int) -> str:
     params = {
         "LastName": "", "FirstName": "",
