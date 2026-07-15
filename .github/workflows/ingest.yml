@@ -1,10 +1,25 @@
-name: Ingest and deploy
+name: Ingest data
 
+# Scheduled data pulls matched to each source's upstream refresh cadence.
+# This workflow ONLY ingests + commits data, then calls the deploy workflow.
+# Site/page edits do not run this - they trigger deploy.yml directly.
+#
+# Cadence (UTC; Pacific is UTC-7/-8):
+#   15:10 daily  -> tcso-calls (after its ~1 AM Pacific daily overwrite) + both jails
+#   00:00 daily  -> both jails (afternoon Pacific booking churn)
+#   06:00 daily  -> nisqually-jail (overnight bookings; updates several times/day)
+# tcso-calls is pulled once daily because the source is overwritten once daily.
 on:
   schedule:
-    # Daily at 15:10 UTC (~7-8 AM Pacific), after the TCSO ~1 AM Pacific refresh.
     - cron: "10 15 * * *"
-  workflow_dispatch: {}
+    - cron: "0 0 * * *"
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: "Comma-separated source ids (blank = all)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -18,6 +33,8 @@ concurrency:
 jobs:
   ingest:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -31,37 +48,47 @@ jobs:
       - name: Run tests
         run: python -m pytest -q
 
-      - name: Ingest sources
-        run: python -m ingest.run
+      - name: Select sources for this trigger
+        id: sel
+        run: |
+          case "${{ github.event.schedule }}" in
+            "10 15 * * *") sources="tcso-calls,tcso-jail,nisqually-jail" ;;
+            "0 0 * * *")   sources="tcso-jail,nisqually-jail" ;;
+            "0 6 * * *")   sources="nisqually-jail" ;;
+            *)             sources="${{ github.event.inputs.sources }}" ;;
+          esac
+          echo "sources=$sources" >> "$GITHUB_OUTPUT"
+
+      - name: Ingest
+        run: |
+          if [ -n "${{ steps.sel.outputs.sources }}" ]; then
+            python -m ingest.run --sources "${{ steps.sel.outputs.sources }}"
+          else
+            python -m ingest.run
+          fi
 
       - name: Commit new data
+        id: commit
         run: |
           git config user.name "policeblotter-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data
           if git diff --cached --quiet; then
             echo "No new records."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
-            git commit -m "data: ingest $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "data: ingest ${{ steps.sel.outputs.sources || 'all' }} $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Assemble Pages site
-        run: |
-          mkdir -p _site
-          cp -r site/* _site/
-          cp -r data _site/data
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
+  # Deploy only when this run actually committed new data. (A GITHUB_TOKEN push
+  # does not itself trigger deploy.yml's push event, so we call it explicitly.)
   deploy:
     needs: ingest
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+    if: needs.ingest.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
