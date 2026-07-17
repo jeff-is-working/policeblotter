@@ -1684,6 +1684,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-16T00:00:00",
+    "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00490455",
+    "raw_hash": "e761f641c5936d39049157478832ca599e622e83e977b9b01c5a58802c01e976",
+    "id": "21d44d948eb4f49d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-16T00:00:00",
     "nature": "VIOLATION OF PROTECTION ORDER - DV",
     "location_block": "",
     "city": "",
@@ -1702,6 +1714,42 @@
     "case_number": "2610094734",
     "raw_hash": "aceb3db12859144e15f9cdb522c84567f31fb5c8ac54946f9a485f0f83c6da55",
     "id": "35deb04cd9b54395"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-16T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00478670",
+    "raw_hash": "f98944fc9ed31e6515a2e7a9a5ff5c3686b92dfdfb1b5ef2692a3e11550bf374",
+    "id": "45712581615f4b33"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-16T00:00:00",
+    "nature": "RESISTING ARREST",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00478671",
+    "raw_hash": "ce6fed0d7a9e23cabcd6b7cb09aeb206b344e5fd983850dc3e8cd4025289c49c",
+    "id": "4d2b3426b06a1f7f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-16T00:00:00",
+    "nature": "FAIL TO TRANSFER TITLE WITHIN 45 DAYS",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00490455",
+    "raw_hash": "93e429eb4e428cc93fcb2866d5f64d0326c52fd0225a7834e934d85b6f0bfbf7",
+    "id": "5b655f1d9ccc0d57"
   },
   {
     "source": "tcso-jail",
@@ -1804,6 +1852,30 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-16T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "26-M00283",
+    "raw_hash": "11c6e99a882d517d521a1ae1dbbca12db57de79e770118de25259486bd3c0019",
+    "id": "bb4d1ce3c6c21201"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-16T00:00:00",
+    "nature": "DWLS 3rd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00490455",
+    "raw_hash": "1a55ac31b00881692eba6e835a60e32bfff7bb7d84b5cdc2818809bd636f09cf",
+    "id": "c3d4bf390abc0b01"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-16T00:00:00",
     "nature": "ASSAULT 2ND DEGREE-WEAPON",
     "location_block": "",
     "city": "",
@@ -1822,5 +1894,41 @@
     "case_number": "26M00179",
     "raw_hash": "4bce46f555e90b5808b35f34018480743021c2dddbe05ac44a32c4e766ce4db7",
     "id": "dac83e466e9569e6"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-17T00:00:00",
+    "nature": "POSSESSION OF STOLEN VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310071734",
+    "raw_hash": "90971f4f5c3fd890e78ab0ca81d00a3a312cc6a4525a4933702dac0446aedc95",
+    "id": "1970ec8640c64acb"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-17T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "2A0617710",
+    "raw_hash": "1e0d8f57411c240ee773d5f9ad58c4473d4ee85bb69d9bab941bf2f75daba305",
+    "id": "aaa696eb093b2976"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-17T00:00:00",
+    "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
+    "location_block": "",
+    "city": "",
+    "case_number": "2A0617710",
+    "raw_hash": "72e09aa4dd95dd91570a9d6be60f5efc87d54e5d7da5c2c2b3d1a1174f6d6c43",
+    "id": "aab1be1055989758"
   }
 ]
