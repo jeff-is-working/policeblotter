@@ -2068,12 +2068,48 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-18T00:00:00",
+    "nature": "HIT AND RUN ATTENDED - VEHICLE AND /OR PROPERTY",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "d36b248d55e527e6822fa3e3f85e04f78a382112113a4844a9a5858952a0967c",
+    "id": "014f90b3783856f2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "RECKLESS DRIVING",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "7dbae6309ff943761bf3bffa86ad5ab6b3c0263cbd5f640e81b19e2b266db830",
+    "id": "20bf584ae56bd7ac"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
     "nature": "CRIMINAL TRESPASS 2ND DEGREE",
     "location_block": "",
     "city": "",
     "case_number": "2610007334",
     "raw_hash": "60ad9da3afc87fb291d3477c7c1e04dbcfedad5c66890bd08f7cec806de9d8a2",
     "id": "2935efaa376b2329"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "DWLS 3rd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "1A0179109",
+    "raw_hash": "91031e6e2d82345e3ffe8f517eb803b04159bd0848d4df0c837996e529e7e454",
+    "id": "41874dc12425ea3d"
   },
   {
     "source": "tcso-jail",
@@ -2092,12 +2128,96 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-18T00:00:00",
+    "nature": "FAIL TO TRANSFER TITLE WITHIN 45 DAYS",
+    "location_block": "",
+    "city": "",
+    "case_number": "1A0179109",
+    "raw_hash": "3b01058ae6888c97a0f26f222967e204635fbd0c7c75e63f822f858c84d48271",
+    "id": "4591eb11e619f417"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "HIT AND RUN ATTENDED - VEHICLE AND /OR PROPERTY",
+    "location_block": "",
+    "city": "",
+    "case_number": "5A0819600",
+    "raw_hash": "16169a2678aa3e0ebdb13942d5a234854cbf3f98b68e98d057d0da685b7d191e",
+    "id": "4995c5118fffdc06"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "DWLS 3rd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "5A0819600",
+    "raw_hash": "8643ed79b6da72c15362f560be976c2e8e3feee303dc94d97e9572de045cab52",
+    "id": "5795c0c4eb736e6c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
     "nature": "POSSESSION OF STOLEN VEHICLE",
     "location_block": "",
     "city": "",
     "case_number": "2610019934",
     "raw_hash": "c244c0fad1827a60eb2dd6fa25f7abe108e134409c9b83f8c31d91e0954490f9",
     "id": "5add9a41ff957c57"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "DWLS 3rd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "8Z0552341",
+    "raw_hash": "4d1ff3c6d591e0dd63b25542f7c6baaafb5c3735b67ee5759e37003f7ddb812d",
+    "id": "6d155da4205ccfdb"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "POSSESSION OF DRUG PARAPHERNALIA",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00632740",
+    "raw_hash": "df456f7138b98b8559827bb221534f83f1a7cedd15b265aa8b34fd4d4d1c6335",
+    "id": "875970bbdb15197b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00613670",
+    "raw_hash": "82129b1a4700720e666196f9a7802ce1f3616b91ea60ea95ddba95d6576b6f5f",
+    "id": "9236299d53486b53"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "ATTEMPTED POSSESSION OF CONTROLLED SUBSTANCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00632740",
+    "raw_hash": "57992b163860935ad277c8e023643de189f3df8b06159cb26c167fee6f9b7632",
+    "id": "973854a482398ff0"
   },
   {
     "source": "tcso-jail",
@@ -2122,6 +2242,30 @@
     "case_number": "2610007334",
     "raw_hash": "9323d899b2a318f17b26343ce5a1302fd22779ed42bcca87de9e0c3ef9a89da7",
     "id": "adb59651c40b82e6"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "BURGLARY 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "17e783db28f360d42aea3105bc286a0dcdcfbc32b2261fd2b8df4e44a539bc19",
+    "id": "aff033b60ff5d8f7"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "DWLS 2nd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "880b3e99bc84a062b186c5519ac5d1af726836e35797b251e61951a0a72b6b23",
+    "id": "ba0aff77a4a5420e"
   },
   {
     "source": "tcso-jail",
@@ -2158,5 +2302,17 @@
     "case_number": "2610007334",
     "raw_hash": "fdd9bafc5dff6ac52a82ee44989424bc931f537976bb46e20d5f79910e992508",
     "id": "fa3cf0d0172a3c8a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-19T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "23M00058",
+    "raw_hash": "7b8450dc912185fe0ca6ee548ae6785d948586f3ab4c33450bdeece5b5bf5029",
+    "id": "86b4862319234244"
   }
 ]
