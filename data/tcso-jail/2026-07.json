@@ -2068,12 +2068,60 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-18T00:00:00",
+    "nature": "CRIMINAL TRESPASS 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610007334",
+    "raw_hash": "60ad9da3afc87fb291d3477c7c1e04dbcfedad5c66890bd08f7cec806de9d8a2",
+    "id": "2935efaa376b2329"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "POSSESSION OF STOLEN VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610012934",
+    "raw_hash": "8ea2609808492dbd7816a06c70384151089fbd7a0f4a1683a5e91a4c1fc00bb7",
+    "id": "45279ed7c80440b7"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "POSSESSION OF STOLEN VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610019934",
+    "raw_hash": "c244c0fad1827a60eb2dd6fa25f7abe108e134409c9b83f8c31d91e0954490f9",
+    "id": "5add9a41ff957c57"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
     "nature": "ASSAULT 2ND DEGREE WHILE ARMED",
     "location_block": "",
     "city": "",
     "case_number": "CHARGE:",
     "raw_hash": "d612428d5b9493d4c9bf2b64c07bcf0e597d60916c6f76c2dfd22ccf38924b6a",
     "id": "ab64d5dc06bfbaa9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "POSSESSION OF STOLEN VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610007334",
+    "raw_hash": "9323d899b2a318f17b26343ce5a1302fd22779ed42bcca87de9e0c3ef9a89da7",
+    "id": "adb59651c40b82e6"
   },
   {
     "source": "tcso-jail",
@@ -2098,5 +2146,17 @@
     "case_number": "CHARGE:",
     "raw_hash": "0f7d95f5a7cdfa53118261b708b36484b37937e982f18780d372148a1f3f1847",
     "id": "f2aa7e0b58d25b8f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-18T00:00:00",
+    "nature": "MAKING OR POSSESSION AUTO THEFT TOOLS",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610007334",
+    "raw_hash": "fdd9bafc5dff6ac52a82ee44989424bc931f537976bb46e20d5f79910e992508",
+    "id": "fa3cf0d0172a3c8a"
   }
 ]
