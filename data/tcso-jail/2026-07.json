@@ -2308,6 +2308,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-19T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "106022619761381afd88551ad3688a4e86ec0ac00e58969515def38753411986",
+    "id": "612de50de61acaea"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-19T00:00:00",
     "nature": "ASSAULT 4TH DEGREE",
     "location_block": "",
     "city": "",
