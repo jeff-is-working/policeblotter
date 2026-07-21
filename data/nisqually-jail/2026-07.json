@@ -3487,9 +3487,57 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26004986",
+    "raw_hash": "d7bf6da41c0be3cbdff79e0e6ccc68742cbb8d9d9b712d478f2378f4e0f08630",
+    "id": "30d0a81c200a1537"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26004988",
+    "raw_hash": "d488d3b03dcd0abf16ccf089fd9eb59b75f65d8c31f02e1019256bca82d69b6c",
+    "id": "38a827c6c8171e34"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26004980",
     "raw_hash": "1b12f4ed15a57b4bd4589b9194e6dde1d455a68c3835fcb4b6f572bfcc89d9f9",
     "id": "3abb3e70d219f1f3"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26004995",
+    "raw_hash": "f15c84ef01e75e9f6715588ce217269fa794cd050dc9e480cfdbf2cf19056aaf",
+    "id": "3d77dc32887f7495"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26004989",
+    "raw_hash": "b550a50e8ac9b4f79c03b9ef08688a1bf199c75e5070c0800c75b67b68a7dce3",
+    "id": "45db027f72a2c00f"
   },
   {
     "source": "nisqually-jail",
@@ -3511,6 +3559,42 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26004990",
+    "raw_hash": "ef8db00c6baf2a61b5fa478d258f83aac9808ebce65263a962f8fa96d80ef358",
+    "id": "6bf5522ecda12eb4"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26004985",
+    "raw_hash": "be8766f6baf4fe84f01ba583e57bf818514dc737e3b50cfed65cb9c900f8f294",
+    "id": "74b37088cea3b618"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26004993",
+    "raw_hash": "a3970717150b3164ea2e58f1cbf861cd1cb787363a7407b52d01e420b1219077",
+    "id": "7f76cbcb498eefd9"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26004981",
     "raw_hash": "2b229ec6418b9b4e17a1fef86c54cfa0bba95d4f3a5e602d0d942649ae2d82ea",
     "id": "90f05479372d853e"
@@ -3523,8 +3607,56 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26004994",
+    "raw_hash": "5331dd7bb56d37e8e4d6d297fb595075d1d2180112ceade65f329fef9b5d210a",
+    "id": "9a96523045ad57f6"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26004984",
     "raw_hash": "4aa096d224ca8c9d3dcea1fd3cc87dea3bde440b0b0652efd47fc8818c554420",
     "id": "a4d411904fa1ea1f"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26004991",
+    "raw_hash": "f548e0b9b685026842e93830e2127ef18e131ae7bd187974147d2469178f8c84",
+    "id": "b0c2433ebcab16ba"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26004987",
+    "raw_hash": "76b293419581917648365b9244edab1e75b579d947d689e566ed77b0f71b07c5",
+    "id": "e3d5935e101b19a2"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26004992",
+    "raw_hash": "3a7067e7444faf3f77ae10e4b628aa4fddb0f5ac97bd6ec226f497b90bd99c11",
+    "id": "e692efdf73e98462"
   }
 ]
