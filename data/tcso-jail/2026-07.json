@@ -3016,6 +3016,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-20T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00533203",
+    "raw_hash": "314b2e64c07907a1fb5a6b38b4f1618e0a9de0919d56a1397ae17531b28114a6",
+    "id": "86ab877588c6aa31"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-20T00:00:00",
     "nature": "DRIVING UNDER THE INFLUENCE",
     "location_block": "",
     "city": "",
@@ -3082,5 +3094,65 @@
     "case_number": "1810164334",
     "raw_hash": "887a9c47155173034b0f5fe1576547c51d435ac8391dfcbd0a482e573d489586",
     "id": "fe1958202d92b7e0"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-21T00:00:00",
+    "nature": "ASSAULT 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2680017134",
+    "raw_hash": "13de51f597ddf3b450442a4ad49a11fe5b0aa66ba3848775a1f05c7eff0c11de",
+    "id": "061b5f54aa6ea5f1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-21T00:00:00",
+    "nature": "RENDERING CRIMINAL ASSISTANCE 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "90c9eb265a59884cda667d246f92d0d7394b3ef30d2d2b1f82dfcee6cb484db1",
+    "id": "3236c84845c5d2af"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-21T00:00:00",
+    "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "dcf6e9fb25f63d98cf46df3361600201cad765efdd6f30fbdc0816c4ffc606f5",
+    "id": "7ce03b28225eee09"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-21T00:00:00",
+    "nature": "UNLAWFUL POSSESSION OF A FIREARM 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2680017134",
+    "raw_hash": "3d5f9ed4e22f15ac9cfa6aacc67f804feaf5bac97e0b7e95e60e4591051f7234",
+    "id": "94de7b3ae0416103"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-21T00:00:00",
+    "nature": "RECKLESS ENDANGERMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2680017134",
+    "raw_hash": "43d237f76130d09bf86679ebcd909c7946f555be11373d57dbc03d596f504c8c",
+    "id": "db4390c59b75e78c"
   }
 ]
