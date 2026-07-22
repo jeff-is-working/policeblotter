@@ -832,6 +832,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-05-22T00:00:00",
+    "nature": "RETAIL THEFT WITH EXTENUATING CIRCUMSTANCES",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610066334",
+    "raw_hash": "a11a685988251db7e7ba7cbe12397482e6f0d919a41da9c0b57a10d12ba623b1",
+    "id": "36388a08e546ec5a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-05-22T00:00:00",
     "nature": "RECKLESS BURNING 2ND DEGREE",
     "location_block": "",
     "city": "",
