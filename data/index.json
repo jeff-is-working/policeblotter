@@ -19,7 +19,7 @@
   "tcso-calls": [
     {
       "month": "2026-07",
-      "count": 2127,
+      "count": 2416,
       "path": "tcso-calls/2026-07.json"
     }
   ],
@@ -156,7 +156,7 @@
     },
     {
       "month": "2026-07",
-      "count": 326,
+      "count": 342,
       "path": "tcso-jail/2026-07.json"
     }
   ]
