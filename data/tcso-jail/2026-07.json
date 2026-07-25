@@ -3724,6 +3724,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-23T00:00:00",
+    "nature": "HARASSMENT THREAT TO KILL DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610099434",
+    "raw_hash": "f8c566786a3db8cdd065675aba8eb8a537229e1db2b6a249307c9884b90d9fb4",
+    "id": "3f05c127300ed8aa"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-23T00:00:00",
     "nature": "BURGLARY 2ND DEGREE",
     "location_block": "",
     "city": "",
@@ -3742,6 +3754,18 @@
     "case_number": "2610098834",
     "raw_hash": "fb95e69f453694b85be4519aa965d15e96e206f18b0bd880df3fabdf94803b2e",
     "id": "492125dc3e04baa8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-23T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610099334",
+    "raw_hash": "0f43b7af5d212a4307b718a5c1ba0dd24e0cf48ff00c22dce8a8f11a43c0e0a7",
+    "id": "5d4b9eb22f9cc957"
   },
   {
     "source": "tcso-jail",
@@ -3784,6 +3808,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-23T00:00:00",
+    "nature": "RECKLESS BURNING 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "26M00376",
+    "raw_hash": "b26a95e0d9d8c3076ebb242b3b14840b6443f08e5b2bcc7eed3fae543a5c9075",
+    "id": "763aa19d67c0d818"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-23T00:00:00",
     "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
     "location_block": "",
     "city": "",
@@ -3802,6 +3838,18 @@
     "case_number": "2010038834",
     "raw_hash": "e7fa567b01f416fe637735937135d2ebbb407a471d03107c12afaca3e4fa6b0f",
     "id": "866c2b8f0719a6a4"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-23T00:00:00",
+    "nature": "VIOLATION OF PRETRIAL NO CONTACT ORDER DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610099334",
+    "raw_hash": "e7f1148fe46c4a5c610db976899cbb66e5dbdd548d5f326576fb8ac2302c7deb",
+    "id": "9087ccb939edd76f"
   },
   {
     "source": "tcso-jail",
@@ -3964,6 +4012,30 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-24T00:00:00",
+    "nature": "CRIMINAL IMPERSONATION 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610099234",
+    "raw_hash": "3117f74b4336bef49150a2cbb95d357fbd210ffbe2d7318e62889e7f6d04c417",
+    "id": "170573e5e96aaa60"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-24T00:00:00",
+    "nature": "DWLS 2nd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610099234",
+    "raw_hash": "903247c964e7647be06f246f1f5a931d0300c85f4aaafc8eaff18721a8544676",
+    "id": "1adcc93879530e55"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-24T00:00:00",
     "nature": "BURGLARY 2ND DEGREE",
     "location_block": "",
     "city": "",
@@ -4039,6 +4111,30 @@
     "nature": "DRIVING UNDER THE INFLUENCE (3 OR MORE PRIORS IN LAST TEN YEARS)",
     "location_block": "",
     "city": "",
+    "case_number": "2610099234",
+    "raw_hash": "a7659aa048d16e76af3013381d337e64092ddf4a11e89e113c6e67c64371c2cf",
+    "id": "92b9912f5e8304d4"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-24T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "26M00037",
+    "raw_hash": "7456b8d47aef2e0470bca1330757838dcf41921c1762905e383332964384d09e",
+    "id": "935467426964051d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-24T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (3 OR MORE PRIORS IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
     "case_number": "CHARGE:",
     "raw_hash": "636c227cccf23d356f945367eb877fbfd8f1e7bfae2a1d6d87fe4b6b432dea1d",
     "id": "ba8acd2e10120055"
@@ -4078,6 +4174,18 @@
     "case_number": "2025358",
     "raw_hash": "2dca8f6f6b966ead6e2cfeff3e75604afc245baf4c10f8390d3cdfe290a69a5d",
     "id": "d22ee6188361f74f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-24T00:00:00",
+    "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610099234",
+    "raw_hash": "a7e362095f4164389c31f271919aa2d3faf08b22e81174dec74f9c52a3dbbd49",
+    "id": "d9290c13b5d97be7"
   },
   {
     "source": "tcso-jail",
