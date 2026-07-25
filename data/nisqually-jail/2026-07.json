@@ -5107,8 +5107,68 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26005125",
+    "raw_hash": "25146bb29120ed594f3c8b13a3bb41c0752d08bf312163c7ce087927d01e4807",
+    "id": "29c6ecd3ddba67dd"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-25T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005123",
+    "raw_hash": "19d7a488e5395801b91e4559c24df4846cec416d63c3dd74ea5559716104f848",
+    "id": "2b42911426d7a595"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-25T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005126",
+    "raw_hash": "9ceaf0912c60f646e0a0bba65ec96c7c64c6d5228a75ec32a78a6f42d01e762f",
+    "id": "968632cc72e8758a"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-25T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26005100",
     "raw_hash": "f4d7212a1d88514bd0afc84ab11166e59355b8ce194504a350f332d751c228d2",
     "id": "9d1ba0aeb4aecb83"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-25T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005118",
+    "raw_hash": "996f149a6c7d9d880daac0f0160f0520663033332f34201515274a0627fa1957",
+    "id": "a38e4e7947254b54"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-07-25T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005124",
+    "raw_hash": "291985ff22a1f69da7f0e80eef8553fd9d88f646bfbd3c9890476764454bc54d",
+    "id": "a52adf0f9472d544"
   }
 ]
