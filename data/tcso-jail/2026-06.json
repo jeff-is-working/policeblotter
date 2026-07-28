@@ -1576,6 +1576,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-06-24T00:00:00",
+    "nature": "CRIMINAL TRESPASS 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610083034",
+    "raw_hash": "a74307553ddf66feb26c2c176ef1e5787273b6b9adcf0a9e61dccc3994be97bf",
+    "id": "6a02acccf9439377"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-06-24T00:00:00",
     "nature": "RAPE OF A CHILD 1ST DEGREE",
     "location_block": "",
     "city": "",
