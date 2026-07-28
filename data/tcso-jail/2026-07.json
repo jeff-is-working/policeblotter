@@ -4906,5 +4906,65 @@
     "case_number": "T00685481",
     "raw_hash": "a5916e4a10fae41479e550d24559b0a70c794dd901dcaad7fa40d397e5f0df9f",
     "id": "dfefbfb7235a03c9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-28T00:00:00",
+    "nature": "FAILURE TO REGISTER AS A SEX OFFENDER",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510013134",
+    "raw_hash": "8336cece6724e425d5c5557b952998c098d4a6b11e82f6091060919c0e650f04",
+    "id": "7f5fdb97e1102e72"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-28T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510075534",
+    "raw_hash": "bb4b21287463c3ef7ed123c90e46c0aa0490345e80376ca4761829bbc6355f51",
+    "id": "89db4e402794e63c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-28T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00600969",
+    "raw_hash": "dfc0733e2d5a3d5282f45b5591949a1492e1075c4e3e5261e4b57e47a29e7c39",
+    "id": "9d65f127c60a1331"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-28T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510075534",
+    "raw_hash": "86dd3f07d8aa436b014b61dd6ca6fa9d983f12efbff9fa074973a76acafdfbac",
+    "id": "a1266b931d7ff922"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-28T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "5A0630920",
+    "raw_hash": "a96499513e443a2634a29f120cafa6a140101ba48155a4598b0efffabe1117a9",
+    "id": "d93b8f3eab33338b"
   }
 ]
