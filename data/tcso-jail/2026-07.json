@@ -5506,5 +5506,53 @@
     "case_number": "2610101934",
     "raw_hash": "f33ff1e8d3024e51d3e3959f9b5371e21cebe65966824d1875f5dc233de3bab1",
     "id": "fcc3e0898a647387"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-30T00:00:00",
+    "nature": "IDENTITY THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410066734",
+    "raw_hash": "8c95b7eaaa176cc1ea414a5d98f1e685467283f8148120c67b7e3ac7ab02ce62",
+    "id": "3e60812d116bdf6a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-30T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "5A0796936",
+    "raw_hash": "b1f48d36bd1736d048760ebc8a2618f7c846a935b9191410083c5676cdafb6ac",
+    "id": "577f3f4e3a24c4b8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-30T00:00:00",
+    "nature": "UPCS (UNSPECIFIED)",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410066734",
+    "raw_hash": "f1b33d740bb1b976767344a635a658127ec3a7406afd53e473ebc093920fc212",
+    "id": "94a248506c399dc9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-30T00:00:00",
+    "nature": "FORGERY",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410066734",
+    "raw_hash": "23989588e9d2fdd69a6b1452b43f29d63df47e6cc59e7b4acd96d562995ab996",
+    "id": "df1532a2a07a5b8c"
   }
 ]
