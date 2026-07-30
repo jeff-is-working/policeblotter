@@ -12,7 +12,7 @@
     },
     {
       "month": "2026-07",
-      "count": 518,
+      "count": 543,
       "path": "nisqually-jail/2026-07.json"
     }
   ],
@@ -96,7 +96,7 @@
     },
     {
       "month": "2025-07",
-      "count": 11,
+      "count": 13,
       "path": "tcso-jail/2025-07.json"
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "month": "2026-07",
-      "count": 444,
+      "count": 459,
       "path": "tcso-jail/2026-07.json"
     }
   ]
