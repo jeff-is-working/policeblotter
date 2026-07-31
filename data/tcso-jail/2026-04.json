@@ -496,6 +496,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-04-11T00:00:00",
+    "nature": "CRIMINAL MISTREATMENT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310139534",
+    "raw_hash": "d03cb60e2beb078aa332a4134641f8619ca05ef2f1f56e11c232c822a8fd76dd",
+    "id": "3cd57069c60e877f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-04-11T00:00:00",
     "nature": "VIOLATION OF NO CONTACT ORDER DOMESTIC VIOLENCE",
     "location_block": "",
     "city": "",

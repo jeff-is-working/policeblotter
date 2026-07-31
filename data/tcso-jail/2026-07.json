@@ -5464,6 +5464,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-29T00:00:00",
+    "nature": "HARASSMENT THREAT TO KILL DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610102534",
+    "raw_hash": "37fbe040bdbc2f084cf181b0a45a90ef3e3be3b43ecb8ac101ccb75758cad309",
+    "id": "09e9eb582355588e"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-29T00:00:00",
     "nature": "VIOLATION OF NO CONTACT ORDER/OVER 2 CONV DOMESTIC VIOLENCE",
     "location_block": "",
     "city": "",
@@ -5500,12 +5512,48 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-29T00:00:00",
+    "nature": "VIOLATION OF NO CONTACT ORDER DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610102334",
+    "raw_hash": "c052315f0fcba02b2dfbd8677e9dfce71f38850d32ddb6278d57633feefc9b69",
+    "id": "95ca98279f752607"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-29T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610102334",
+    "raw_hash": "dc214adc237e05d5cba4662110a18e201736636f134e3654f59647693f30ad3f",
+    "id": "cd9c5f0a6245a98c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-29T00:00:00",
     "nature": "THEFT 2ND DEGREE",
     "location_block": "",
     "city": "",
     "case_number": "2610101934",
     "raw_hash": "f33ff1e8d3024e51d3e3959f9b5371e21cebe65966824d1875f5dc233de3bab1",
     "id": "fcc3e0898a647387"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-29T00:00:00",
+    "nature": "ASSAULT IN VIOLATION OF NO CONTACT ORDER DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610102334",
+    "raw_hash": "5f77a1d91da429e30ea7df24d4035226880efda1576cc2eec45858172309d8f0",
+    "id": "fd4d63d1d78f681c"
   },
   {
     "source": "tcso-jail",
@@ -5542,6 +5590,18 @@
     "case_number": "2410066734",
     "raw_hash": "f1b33d740bb1b976767344a635a658127ec3a7406afd53e473ebc093920fc212",
     "id": "94a248506c399dc9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-30T00:00:00",
+    "nature": "PROTECTION ORDER VIOLATION OVER TWO CONVICTIONS",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610082634",
+    "raw_hash": "60889325e17c2d86d5ad9ff25e45b28795b4b2669fa4ca4917dd85b83cade2be",
+    "id": "b43d897b5cf831e8"
   },
   {
     "source": "tcso-jail",

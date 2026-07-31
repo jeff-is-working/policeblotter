@@ -148,6 +148,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-03-05T00:00:00",
+    "nature": "UPCS WITH INTENT TO DELIVER SYNTHETIC NARCOTIC",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610030534",
+    "raw_hash": "775663221bd129de771f18bd02d6d3cc5f969914c2f2bbeb44ab7e7ad511f4b7",
+    "id": "9e6b3291acfdd4c2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-03-05T00:00:00",
     "nature": "UPCS WITH INTENT TO DELIVER SYNTHETIC NARCOTIC WHILE ARMED",
     "location_block": "",
     "city": "",

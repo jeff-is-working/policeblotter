@@ -1540,6 +1540,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-06-24T00:00:00",
+    "nature": "VIOLATION OF NO CONTACT ORDER DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510157134",
+    "raw_hash": "f99ce70db4960f4b8fe652d7a488dc45972ea69417317fa46407e3a78cf193ca",
+    "id": "3cf60b00e0a9cc4e"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-06-24T00:00:00",
     "nature": "MALICIOUS MISCHIEF 3RD DEGREE",
     "location_block": "",
     "city": "",
@@ -1666,6 +1678,18 @@
     "case_number": "2610083034",
     "raw_hash": "9580ed2cb3a4237cbf48cf8355352444c6d0885bb4a127217d2fbf25389068bd",
     "id": "cd6c3c65e67abce3"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-06-24T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510145234",
+    "raw_hash": "2f0a56081cd955c90a84f7c4a6f42159dbaaead664081e7e13d2eb076db944dc",
+    "id": "d040ca808706b6bf"
   },
   {
     "source": "tcso-jail",
