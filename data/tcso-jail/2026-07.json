@@ -5596,6 +5596,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-30T00:00:00",
+    "nature": "DWLS 3rd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00715529",
+    "raw_hash": "b29e7bcd537df997741d294399012d988054635a4122f811244519412cec6f14",
+    "id": "b28c14b9aa738f6f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-30T00:00:00",
     "nature": "PROTECTION ORDER VIOLATION OVER TWO CONVICTIONS",
     "location_block": "",
     "city": "",
@@ -5608,11 +5620,47 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-30T00:00:00",
+    "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00715529",
+    "raw_hash": "4d57e846d330ef8902f4d3473e0856cca5dccf519b61455a7bda2e7dedc58024",
+    "id": "cc11ba10f14110da"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-30T00:00:00",
     "nature": "FORGERY",
     "location_block": "",
     "city": "",
     "case_number": "2410066734",
     "raw_hash": "23989588e9d2fdd69a6b1452b43f29d63df47e6cc59e7b4acd96d562995ab996",
     "id": "df1532a2a07a5b8c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-31T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00715531",
+    "raw_hash": "4da62e3a961002afb60704d9a35c8ab1368bae796d39d3b2f00881b0458b5cd9",
+    "id": "0dc7b169cb08ffa9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-31T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 2ND DEG-DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610067334",
+    "raw_hash": "a923ea8322553c1a36a5fd330dc24959e8b9d9df422034cc60d248eb045f70a8",
+    "id": "27d7a57b3fed882d"
   }
 ]
