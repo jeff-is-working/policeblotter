@@ -5668,12 +5668,36 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-31T00:00:00",
+    "nature": "RENDERING CRIMINAL ASSISTANCE 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "e1223f0bd1d756dcd50cf34313246b6a4d6b1f830d7c26500049f35603da2e20",
+    "id": "026002af794555ff"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-31T00:00:00",
     "nature": "DRIVING UNDER THE INFLUENCE",
     "location_block": "",
     "city": "",
     "case_number": "T00715531",
     "raw_hash": "4da62e3a961002afb60704d9a35c8ab1368bae796d39d3b2f00881b0458b5cd9",
     "id": "0dc7b169cb08ffa9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-31T00:00:00",
+    "nature": "VIOLATION OF A PROTECTION ORDER DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410058234",
+    "raw_hash": "47293745bc6924146db57cdea97197e671b91730e98b8c349b4e8e978c314cd6",
+    "id": "25dc369ed94b9ac5"
   },
   {
     "source": "tcso-jail",
@@ -5716,6 +5740,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-31T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410058234",
+    "raw_hash": "974e409e0780707de0c90dba2440f74c829ca47a4f46f4c925cc2386913a0623",
+    "id": "6153c23fba72ddf9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-31T00:00:00",
     "nature": "ATTEMPTED ASSAULT 4TH DEGREE-DOMESTIC VIOLENCE",
     "location_block": "",
     "city": "",
@@ -5746,6 +5782,18 @@
     "case_number": "2610102934",
     "raw_hash": "eff8c996afc1f56991ed96878b524f4431ea853915a6c0301528030fa5d2e178",
     "id": "ab3f72efd07a15cf"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-31T00:00:00",
+    "nature": "BURGLARY 2ND DEGREE DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "7baadbacd36f99c00b051225c93691c2f4fb76ad880e6205ae47df8d640d6a7f",
+    "id": "d2186f9f4806b8cb"
   },
   {
     "source": "tcso-jail",

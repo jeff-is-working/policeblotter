@@ -1,0 +1,62 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-01T00:00:00",
+    "nature": "RECKLESS DRIVING",
+    "location_block": "",
+    "city": "",
+    "case_number": "4A0345073",
+    "raw_hash": "8a7892c18dc4b64e7eedba5f24d45a9615ef0df355dcbd5f365a1890885e085a",
+    "id": "1a8ed0b2a73ad05a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-01T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00600974",
+    "raw_hash": "dcdaa9a3956261b5ba083eeba8b2a81f23e2aa42af49f39bc0cba1851d96b52a",
+    "id": "29cc2bf0732f3b3f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-01T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00613681",
+    "raw_hash": "91e9aa694bb7139ced2fce3549adf2aff414f82554c3a4b3979ca637e74b027a",
+    "id": "67e3f4ca6ec069dd"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-01T00:00:00",
+    "nature": "MINOR IN POSSESSION AND/OR CONSUMPTION",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00600975",
+    "raw_hash": "1c657f768edc5867c3476635a432c890c306bb20d0a69f9aee69291c056d8f45",
+    "id": "8a8f456c08202057"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-01T00:00:00",
+    "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "b7c5d93e56780e64bda67ab42224f780229de42dc99221537d6729887998cf1b",
+    "id": "f0013e0e1cd30945"
+  }
+]

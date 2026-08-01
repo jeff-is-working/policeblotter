@@ -1,0 +1,38 @@
+[
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-01T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005326",
+    "raw_hash": "cb7f757315b8bef1d04c134a56950607daeef7eec0a8832c30ca1b20eb6846cc",
+    "id": "42a79220b5b33bc4"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-01T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005327",
+    "raw_hash": "451ebc09680560aac973c9c9f684b181cd72bbf46b732c60ea37faec494f8ec5",
+    "id": "6101e540fd880f13"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-01T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005329",
+    "raw_hash": "6f8c8e2d6c4c313857901cbf97a4288041eb8b56bc7732258f99a3ad6d06f6b2",
+    "id": "ca11d294168459b1"
+  }
+]
