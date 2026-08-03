@@ -91,6 +91,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26005334",
+    "raw_hash": "66511edc283a4eeafbc425a0b0913dd0677190c456c76b7bc88986fd66dfae25",
+    "id": "a70fd37ffe840717"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-01T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26005337",
     "raw_hash": "1ee9cbfd7e5c200e4394ddae87e3e469ccd0225fe7c4eabb5b8e1b675a995925",
     "id": "af1c67326830db01"
@@ -175,6 +187,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26005347",
+    "raw_hash": "500abcf39036d302550646cc961d7becc2edbbc0fbab50af515abe8aeef2ddae",
+    "id": "2d0835648cff5cb7"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-02T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26005340",
     "raw_hash": "893c944eb75395691da6b32dd334bed64efd2826ee30d19deefa9fa36714fe58",
     "id": "7f36dfe58c778257"
@@ -214,5 +238,29 @@
     "case_number": "26005344",
     "raw_hash": "49b4c10bbe28e45efa6e2518240b26f254025dc384fbcb1f6585c42c1d259706",
     "id": "9f194b9c90b1f342"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-02T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005346",
+    "raw_hash": "d8890adea48e70fbad6062cd7bb06c146dfa9e007c893c51c0c4181ecee4067e",
+    "id": "cfb39dac5956b055"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-02T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005348",
+    "raw_hash": "1b2602557c91112c14201bb6a536ecb960b6b7e37605fe2f2aa0ecb8d55b1654",
+    "id": "f53ccd2894ca9671"
   }
 ]
