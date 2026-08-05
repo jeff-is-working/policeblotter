@@ -5596,6 +5596,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-30T00:00:00",
+    "nature": "ARSON 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610102834",
+    "raw_hash": "18b9d3ce600531e3f3c6a53e4eb23489705c17877ab4a20cca9bcd079f751623",
+    "id": "7c264eca6da7eebd"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-30T00:00:00",
     "nature": "UPCS (UNSPECIFIED)",
     "location_block": "",
     "city": "",
@@ -5662,6 +5674,18 @@
     "case_number": "2410066734",
     "raw_hash": "23989588e9d2fdd69a6b1452b43f29d63df47e6cc59e7b4acd96d562995ab996",
     "id": "df1532a2a07a5b8c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-30T00:00:00",
+    "nature": "USE/DELIVER DRUG PARAPHERNALIA",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610102834",
+    "raw_hash": "5d5ddd448014b6bcdd4269e3ad4b96255864c264204114eefaaa97cc81736619",
+    "id": "fa5c6aca510db746"
   },
   {
     "source": "tcso-jail",
