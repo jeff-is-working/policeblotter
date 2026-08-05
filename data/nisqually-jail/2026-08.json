@@ -1075,8 +1075,68 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26005417",
+    "raw_hash": "bbfbb11c7442905cf9dd83d1bb814fbf60cb07ad90c2e98c80cf7fcd65634518",
+    "id": "0f544700a985d20f"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-05T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005421",
+    "raw_hash": "e324b27bce0e3aef271b7821770b23dc964cb9edf1e165c3c5f62658f71ba7e1",
+    "id": "4de312c92bd064d0"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-05T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005418",
+    "raw_hash": "6aa4a9e83ad5fb9cdb9ec81ef9787e2f02006629d9c09f2c102af6b698a62054",
+    "id": "9ad7a8182c312490"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-05T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005420",
+    "raw_hash": "c3734043ab1af1f0fa646b83c6d4d9325dc72f83042ccb7a725e8bdd171dff90",
+    "id": "a7ca8c6a0b454ef6"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-05T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26005416",
     "raw_hash": "f37b74b7796d25a1bf9cc6964fd5f12b87408adeade3dd39a43a4da208d708ae",
     "id": "bb1db97679744f24"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-05T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005419",
+    "raw_hash": "29843488e37e3a449a97da6143538335c0ac6b41962b03877ca4adef20c612cf",
+    "id": "ecbf4429b441533a"
   }
 ]
