@@ -112,6 +112,30 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2025-09-16T00:00:00",
+    "nature": "THEFT OF A FIREARM",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510121834",
+    "raw_hash": "c37b22e675ed2e20cac9823190441228ec57469a7362dfb395cad2abdbd04975",
+    "id": "22044dffdc0de8ad"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-09-16T00:00:00",
+    "nature": "TRAFFICKING IN STOLEN PROPERTY 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510121834",
+    "raw_hash": "fc71d0bad1f6c0f0f71d79c3c79897b8af8330ac0cd904bc4b8fe473d4acdef5",
+    "id": "284870cfbf688843"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-09-16T00:00:00",
     "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
     "location_block": "",
     "city": "",
@@ -286,6 +310,18 @@
     "case_number": "2510121934",
     "raw_hash": "d315172e74e49929afd4632725ef05e134fbbc6d240197210e1b226ab2946918",
     "id": "cdef3227041e7b11"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-09-16T00:00:00",
+    "nature": "THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510121834",
+    "raw_hash": "52d85d38adf69ed5c76ac7753d85dcc54640b03b08af18ce618da702ca8c1880",
+    "id": "fffdb966e9cb2107"
   },
   {
     "source": "tcso-jail",

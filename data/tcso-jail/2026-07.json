@@ -5800,6 +5800,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-31T00:00:00",
+    "nature": "TAKING MOTOR VEHICLE WITHOUT PERMISSION 2ND",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610103034",
+    "raw_hash": "94a908f460ed54ae0b8700911010dd13837cccfa8b09a2e33b5caacf23b48801",
+    "id": "3cdee863030e0eba"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-31T00:00:00",
     "nature": "DRIVING UNDER THE INFLUENCE",
     "location_block": "",
     "city": "",
@@ -5914,6 +5926,18 @@
     "case_number": "CHARGE:",
     "raw_hash": "7baadbacd36f99c00b051225c93691c2f4fb76ad880e6205ae47df8d640d6a7f",
     "id": "d2186f9f4806b8cb"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-31T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610104034",
+    "raw_hash": "9213b8e83082577660753c08145f1a6e2f52532fc91e2d62f1680987c3204bff",
+    "id": "d986d028aeb2b114"
   },
   {
     "source": "tcso-jail",
