@@ -184,6 +184,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-04-04T00:00:00",
+    "nature": "HIT AND RUN ATTENDED - VEHICLE AND /OR PROPERTY",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610044334",
+    "raw_hash": "6708252f258d19f52d70c3087a877b3ca36e8004cd449801e890812c4dcb3f5e",
+    "id": "1ca4ca1264b0fbdc"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-04-04T00:00:00",
     "nature": "DWLS 3rd DEGREE",
     "location_block": "",
     "city": "",
@@ -538,6 +550,18 @@
     "case_number": "2610049334",
     "raw_hash": "931a800fff3d29990ce0b9212670f8c9df629b441b2574baab5d50060a50e95d",
     "id": "020d008be8deb15f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-04-15T00:00:00",
+    "nature": "FELONY VIOLATION OF PROTECTION ORDER DV (2 PRIOR)",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610049834",
+    "raw_hash": "faf24f4942e5e224059a88014a8ce7b8a13e1716f3c74afb26c9970b1e0fc68c",
+    "id": "78af7d7eebca3356"
   },
   {
     "source": "tcso-jail",

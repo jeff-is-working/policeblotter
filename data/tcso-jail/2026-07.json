@@ -820,6 +820,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-11T00:00:00",
+    "nature": "RESISTING ARREST",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610092234",
+    "raw_hash": "50ef70b404836218cb598eef06d53270bb551179d462a9b916b699f1c8b42c01",
+    "id": "72499b17182051e4"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-11T00:00:00",
     "nature": "ARSON 2ND DEGREE",
     "location_block": "",
     "city": "",
@@ -838,6 +850,18 @@
     "case_number": "2610047634",
     "raw_hash": "48af33fe59799bd3c3db79c66052aa2e9ed83cff08d5a279cd41522047df12a1",
     "id": "8c82b7c1a2d9253e"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-11T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610092234",
+    "raw_hash": "e0f7017957098e17cefe25d609ed6c972ef93425d979ad7398c98066e6aba5d3",
+    "id": "b603e85fd8083ab6"
   },
   {
     "source": "tcso-jail",

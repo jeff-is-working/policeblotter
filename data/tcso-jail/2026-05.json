@@ -568,6 +568,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-05-20T00:00:00",
+    "nature": "BURGLARY 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610046034",
+    "raw_hash": "e1713e2ddbd7f80221928a55bf7890749092765e0157cc3082f16fea0a620019",
+    "id": "3a577cf56aa57bbf"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-05-20T00:00:00",
     "nature": "RESIDENTIAL BURGLARY",
     "location_block": "",
     "city": "",
