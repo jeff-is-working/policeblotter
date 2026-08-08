@@ -4612,6 +4612,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-25T00:00:00",
+    "nature": "RETAIL THEFT WITH EXTENUATING CIRCUMSTANCES",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610059634",
+    "raw_hash": "70f8ce0e7a11970eee70b64821601c0cbbd892e79931ea9b3802193270d1b916",
+    "id": "47834127a9ead099"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-25T00:00:00",
     "nature": "CRIMINAL TRESPASS 2ND DEGREE",
     "location_block": "",
     "city": "",
