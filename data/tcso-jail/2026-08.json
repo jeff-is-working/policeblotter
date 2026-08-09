@@ -1600,6 +1600,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-08T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 2ND DEGREE (EXCESS $750)",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "375f3b3b39b421d92b5d3cb2230b8bc8d403a0f2e1609c232fd40f7294bcc19a",
+    "id": "23f13bde1ad02dfb"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-08T00:00:00",
     "nature": "CIVIL CONTEMPT",
     "location_block": "",
     "city": "",
@@ -1624,6 +1636,30 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-08T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE - LAW ENFORCEMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "1c3edb707236ffbea7edfe14489974e80544a3f7373865d59bf44c8d6b2b78b8",
+    "id": "5c073451fd6321e3"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-08T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0350974",
+    "raw_hash": "67c8a26600080c865400ec0b4cab08da82e5e30e49173143a83256059ff67043",
+    "id": "cf178ea922f41e74"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-08T00:00:00",
     "nature": "POSSESSION OF STOLEN VEHICLE",
     "location_block": "",
     "city": "",
@@ -1642,5 +1678,17 @@
     "case_number": "2510131834",
     "raw_hash": "b98bd31bcb6bc683d5713e9a83ac50d5f9c0c237542c4e579f2db3da16e95705",
     "id": "f8cdbb491606dfe1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-08T00:00:00",
+    "nature": "RESISTING ARREST",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "6810ed41592bc8f2eaa14071daea37f7c8a4c1bb74a803cc538b740e23edc4ee",
+    "id": "fce690bb965cef4d"
   }
 ]
