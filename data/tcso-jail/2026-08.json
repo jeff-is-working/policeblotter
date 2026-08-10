@@ -1750,5 +1750,29 @@
     "case_number": "CHARGE:",
     "raw_hash": "f16363ba6c338596e80d599743598820b9189bb99c69079f4a001ee3f5b2e082",
     "id": "4802f66beb52a7d1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-09T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00720646",
+    "raw_hash": "9b6e303384dd234816e8c555991761409e6113b6aaa7aff87f26c6185868f8be",
+    "id": "c6310ccf6ae1a9d1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-09T00:00:00",
+    "nature": "INTERFERING WITH REPORTING OF DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "97394b72a283bf407ece2d8f0764a9e5ff7e3972e5a2c21a62dbec52ca15d205",
+    "id": "c8381ac16128598a"
   }
 ]
