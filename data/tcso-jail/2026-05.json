@@ -376,6 +376,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-05-12T00:00:00",
+    "nature": "BURGLARY 2ND DEGREE DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510052734",
+    "raw_hash": "f865c6f4a23776ae6011f04bfb0c83a7767a0c1de2be6da7eb36022419f343bd",
+    "id": "2bac9dd972306e30"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-05-12T00:00:00",
     "nature": "THEFT 3RD DEGREE",
     "location_block": "",
     "city": "",
