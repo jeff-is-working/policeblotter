@@ -2242,5 +2242,17 @@
     "case_number": "CHARGE:",
     "raw_hash": "76ee103a87be0da4ee843b1361910edeeea341646a72b7d3a8237701a755316c",
     "id": "ce84f35c75a2f2bc"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-12T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "24DV0410",
+    "raw_hash": "f7e18adb7e7a63981e06d8566259771cb4966ad198d28b8c1287c191091b8ddb",
+    "id": "9735b87e603b20d1"
   }
 ]
