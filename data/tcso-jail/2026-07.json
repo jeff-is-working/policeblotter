@@ -4600,6 +4600,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-25T00:00:00",
+    "nature": "UNLAWFUL POSSESSION OF A FIREARM 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "c5ea04d202f11f4a891317ee74a68fdf0935946082a3cd9b0e52d140849be29b",
+    "id": "40e55900f1805036"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-25T00:00:00",
     "nature": "ASSAULT 2ND DEGREE",
     "location_block": "",
     "city": "",
