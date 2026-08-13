@@ -352,6 +352,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-06-03T00:00:00",
+    "nature": "TAKING MOTOR VEHICLE WITHOUT PERMISSION 2ND",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510144034",
+    "raw_hash": "f4af7124b17718a50999bfd28cbdf8b3e55bb4fa2190a35c669e294f90799983",
+    "id": "9f6ba8814244579d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-06-03T00:00:00",
     "nature": "UNLAWFUL POSSESSION OF A FIREARM 1ST DEGREE",
     "location_block": "",
     "city": "",
