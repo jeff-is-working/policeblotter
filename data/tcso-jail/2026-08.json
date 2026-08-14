@@ -2464,6 +2464,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-13T00:00:00",
+    "nature": "CIVIL CONTEMPT",
+    "location_block": "",
+    "city": "",
+    "case_number": "093001651",
+    "raw_hash": "0e695a59426264e08a4489c736032b7b20dfffeac4c5265f2ff00d6ef100fd16",
+    "id": "2c99a4175b1c2296"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-13T00:00:00",
     "nature": "STALKING",
     "location_block": "",
     "city": "",
@@ -2506,6 +2518,18 @@
     "case_number": "2610109034",
     "raw_hash": "fb2e96b1d8acf0b2423ee7c6cdc6df28552c6cc41e5e8b104ea3beb38e291385",
     "id": "42a7227c9deff94a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-13T00:00:00",
+    "nature": "DWLS 3rd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00595678",
+    "raw_hash": "72b8cebc4081f5f505b90e7fb64f06d98a8805a1815c728ff3b6f88341df2563",
+    "id": "44d1a7c418a8bd39"
   },
   {
     "source": "tcso-jail",
@@ -2680,6 +2704,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-13T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00595676",
+    "raw_hash": "d699c9cd73bbb48edd084537f7eb53a3fc4a1d052180f89590629b95a9edbee7",
+    "id": "e9e5b326fa260836"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-13T00:00:00",
     "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
     "location_block": "",
     "city": "",
@@ -2692,11 +2728,71 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-13T00:00:00",
+    "nature": "ELUDING A POLICE VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "82d1823efff904f779b406291a2cbfbe2c530bbc81e93b8f5523c86259018f83",
+    "id": "f4f6cf4cd80db66c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-13T00:00:00",
     "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
     "location_block": "",
     "city": "",
     "case_number": "2610108834",
     "raw_hash": "0b09287965770e250e226b5f482e2cb12aa556483b7cb8be1bbbf8b369f9322d",
     "id": "fab861247ccdc658"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-14T00:00:00",
+    "nature": "KIDNAPPING 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410160834",
+    "raw_hash": "dc81eb2c619deaeb21b1ff62e286bc5d1cfc1622cf76a82a7ac74e7b25dc7269",
+    "id": "09a14c3e57ecc27a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-14T00:00:00",
+    "nature": "ATTEMPTED KIDNAPPING 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410160834",
+    "raw_hash": "e167100ff5369bdf8d7f03a95cf05cc77fd29771b19a77d3f4e7de694edaeecf",
+    "id": "624dd6a18fd7575d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-14T00:00:00",
+    "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
+    "location_block": "",
+    "city": "",
+    "case_number": "CR100760",
+    "raw_hash": "8d2f020a25634af5e88c3a644e60c6fe7bc4f91fd1a85b86c8e358fde8a2ce2b",
+    "id": "8275137bb7c454ce"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-14T00:00:00",
+    "nature": "DWLS 3rd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CR100760",
+    "raw_hash": "795a8c3cddf626c7d2651889c9a1db4a2c6446406c542e91c584ea52f97150bf",
+    "id": "fd32a24bf2be2162"
   }
 ]
