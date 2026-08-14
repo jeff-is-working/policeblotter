@@ -160,6 +160,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-04-03T00:00:00",
+    "nature": "FELONY VIOLATION OF PROTECTION ORDER DV (2 PRIOR)",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610044034",
+    "raw_hash": "2f636a6adce54c466aeb8508025e8ccd0801d63a1911d2d3b8021aafaabcac5c",
+    "id": "be90de9e47c70235"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-04-03T00:00:00",
     "nature": "ASSAULT 4TH DEGREE",
     "location_block": "",
     "city": "",
