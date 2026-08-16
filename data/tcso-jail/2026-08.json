@@ -3034,5 +3034,41 @@
     "case_number": "CHARGE:",
     "raw_hash": "d8263917d847cedc628fb00329a8be9f5100a725599f99a256ef3d9d287ac0bb",
     "id": "c3c24dce299bc95e"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-15T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "9693fb73d9943fef784de702bd6eaa2222409a6fc066d1abd69808f796ee51d9",
+    "id": "ea30a12355ceff9d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-16T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "a4e37c8d9ec73ec8c99d6cf2794d5ff4edae9bd6d761be7bb1c9499f7330b0ed",
+    "id": "5c7d2962c77505f3"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-16T00:00:00",
+    "nature": "ROBBERY 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610022634",
+    "raw_hash": "f5e7ef84ce78bcc807109bab09e38d8df02fbad80b798d8e59cb4a0e055bbdc5",
+    "id": "a86a8a88dc140531"
   }
 ]
