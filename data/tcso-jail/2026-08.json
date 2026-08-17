@@ -3070,5 +3070,17 @@
     "case_number": "2610022634",
     "raw_hash": "f5e7ef84ce78bcc807109bab09e38d8df02fbad80b798d8e59cb4a0e055bbdc5",
     "id": "a86a8a88dc140531"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-16T00:00:00",
+    "nature": "RAPE OF A CHILD 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "2008cd02222e55cafbe114b38d8c7308059c339f4f4eef33fe572af8a0f360c7",
+    "id": "f33336fd12d65af9"
   }
 ]
