@@ -4615,6 +4615,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26005729",
+    "raw_hash": "f93a5d5a89e90a4b7d5368ca860b6168c7919a14708a7df14f4bfd152ccb4784",
+    "id": "1529578051308022"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-17T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26005718",
     "raw_hash": "b44c1d1c9ad12a7f4bd2cb61e27f2cfb476679cf90ec0832b9484aef3860b15b",
     "id": "19ca2ddd4593912d"
@@ -4627,9 +4639,69 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26005726",
+    "raw_hash": "8b7cfd888abca1e6f5cd0c8a02285bd5d47d5e75937ebe756d774c3bfa35265a",
+    "id": "207e17b07a124b11"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-17T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005730",
+    "raw_hash": "b00516bcd47b309ef39298f712bc4acdb4fb1e07da19cccd9eccf3cdbfcd1d74",
+    "id": "21182e4a1da2fc23"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-17T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005723",
+    "raw_hash": "edb8c05bc93fcd5b8cf0ebb0d480aeb178bbbb6a28746ed19122dfd9c43df307",
+    "id": "215e43e2a1132062"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-17T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26005722",
     "raw_hash": "c4fd09f8313fe453f26232b1cc1e260fb27113f09bd7ef17e3f172e58d573c3e",
     "id": "428c581313539126"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-17T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005731",
+    "raw_hash": "729e1fbc320fcbc4ab60565261dff156a9a86ebdc298edee8d059b1598b083c4",
+    "id": "44b32339f63a6ac8"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-17T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005725",
+    "raw_hash": "f7a98207849313ffdb1c850e1cc8d8b01cc12bb0b490e38be4d85a400c0f6eba",
+    "id": "6fee3814691bbde1"
   },
   {
     "source": "nisqually-jail",
@@ -4663,8 +4735,44 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26005727",
+    "raw_hash": "9d97e43227c436226aab5bc6014037e1bd7e99d9afff744691df0996560f86b8",
+    "id": "878cc4a2ee28418a"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-17T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005724",
+    "raw_hash": "94f2b923e968f70675dca87470b0f704d52b1ff8c6afb25189f74d8441ae0c12",
+    "id": "88c04d60ce74786a"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-17T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26005720",
     "raw_hash": "678cd2733e3b9b5a584daba22eee59aa2cda80f4af3e8e8ab579ff9147dfb5d5",
     "id": "992dff8d8a11e9cd"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-08-17T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26005728",
+    "raw_hash": "cf4ce310ed2f3c218eb02569d80792980d50fca85bd7b9578ccdb9f34aef36b1",
+    "id": "fba39d087045f264"
   }
 ]
