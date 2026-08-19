@@ -3814,5 +3814,29 @@
     "case_number": "CHARGE:",
     "raw_hash": "097813ed3e42b5d1e3dcfa6571f77a2aad9260dd5af82b291dc101d46d51151d",
     "id": "dec5b6ddcb171588"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-19T00:00:00",
+    "nature": "RECKLESS DRIVING",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "8f22e4b576fd03da4fda89cadc9a8a73c0d46b35f2576736b5fefbc2e4394f6d",
+    "id": "853cd9ba77c66c40"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-19T00:00:00",
+    "nature": "DISPLAYING WEAPON",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "f44a3245ade1ea62d22475fcbf2f41d5c6b8de0381b2390701a342246f50047f",
+    "id": "fece217b57171fbd"
   }
 ]
