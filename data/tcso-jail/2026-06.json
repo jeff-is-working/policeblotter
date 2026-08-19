@@ -1360,6 +1360,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-06-22T00:00:00",
+    "nature": "FELONY HARASSMENT-THREAT TO KILL, WHILE ARMED WITH FIREARM",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410069934",
+    "raw_hash": "bb082740dc38404e68569530f773a3f1142417c5a2d6ff8a5348932fe0558ba3",
+    "id": "6dfaf6887d38b407"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-06-22T00:00:00",
     "nature": "FELONY HARASSMENT",
     "location_block": "",
     "city": "",
@@ -1402,6 +1414,18 @@
     "case_number": "2610082434",
     "raw_hash": "edb8e99b222ba4070afc431b6957b5a14286cc9e80de39165345dd1919d715f5",
     "id": "9b13b9b9d5c6fb9c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-06-22T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410069934",
+    "raw_hash": "eb2680b6d53714387d6dec8453d77d553e62567fd259370544f9dda1c86aeac7",
+    "id": "fee143b4daf8f791"
   },
   {
     "source": "tcso-jail",
