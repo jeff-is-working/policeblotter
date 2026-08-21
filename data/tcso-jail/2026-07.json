@@ -76,6 +76,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-01T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510085834",
+    "raw_hash": "7d44cc9e974971ca4ee6e86ec626ec2820356bf1390eff08f3ba602659dacda9",
+    "id": "97274920f86cf3a5"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-01T00:00:00",
     "nature": "FAILURE TO REGISTER AS A SEX OFFENDER",
     "location_block": "",
     "city": "",
