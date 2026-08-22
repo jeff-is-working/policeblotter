@@ -4624,6 +4624,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-21T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0383217",
+    "raw_hash": "3dd104053d7bcdf6cc9526297c52f4caff41fa0f1d0ac3092832d266ee87b1b0",
+    "id": "c44d3206c9fc1441"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-21T00:00:00",
     "nature": "RESIDENTIAL BURGLARY",
     "location_block": "",
     "city": "",
@@ -4642,5 +4654,29 @@
     "case_number": "2410160134",
     "raw_hash": "b64f103ec2f4356bd8bd45e437d3897a4c7ded601335588f3f5f6e0fcf4d8bb4",
     "id": "e92c5b02b360cf82"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-22T00:00:00",
+    "nature": "ELUDING A POLICE VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "61c241313a91301ad36178ef104a1eaf1c7d1f7ddd9e43e72d2622f1b851ea08",
+    "id": "48dc6a89ba9e809b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-22T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0381828",
+    "raw_hash": "bd2036af0a724ac7da700db2f423c9c858ae920d1074881de0c28014f6d44320",
+    "id": "add1a90bf5a53f3c"
   }
 ]
