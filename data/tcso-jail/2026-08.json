@@ -4750,5 +4750,17 @@
     "case_number": "T00743833",
     "raw_hash": "170915b853d56b4be77bbe7667a68c4070cb133cba26023cd7b56c928eb58478",
     "id": "d548ef2457e3b5a6"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-24T00:00:00",
+    "nature": "THEFT",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "ad66f358f7e2f51566591baef0778eefddaafeb1ae4507dd1cb63fc7e712f8d3",
+    "id": "b8d9b59f8101d319"
   }
 ]
