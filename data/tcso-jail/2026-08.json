@@ -4930,5 +4930,89 @@
     "case_number": "CHARGE:",
     "raw_hash": "ad66f358f7e2f51566591baef0778eefddaafeb1ae4507dd1cb63fc7e712f8d3",
     "id": "b8d9b59f8101d319"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
+    "nature": "CRIMINAL TRESPASS 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "5A0563209",
+    "raw_hash": "b85e08198c688dcfbef9a57f11a8a7cb56558bf18d18fbc3e890ddca159ccbf6",
+    "id": "3a6eb08acae5c05c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
+    "nature": "USE/DELIVER DRUG PARAPHERNALIA",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0266195",
+    "raw_hash": "5bd8774f1b93d88d3df09a85c4e849fe382acbe8734363efb0a21a263e451241",
+    "id": "6d8cdc891df392d7"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
+    "nature": "RESISTING ARREST",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "438b476ff797b85709cada25e9d394c6ae523f3fd1b4ea7c302a6fb2aae0293f",
+    "id": "7e231a359dfd96d9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
+    "nature": "POSSESSION, USE OF CONTROLLED SUBSTANCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0266195",
+    "raw_hash": "584a7a76e145e2a63122762999761aea6bc4fa54b83bbc6affb71b7fb5fd09ac",
+    "id": "7f5283f07dc5592f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "25M00498",
+    "raw_hash": "3b660ae280a0a1a1c1031ccd58561349dd462183a5e95c053cbee8478db8bd2e",
+    "id": "86cdc3de5fde2547"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
+    "nature": "KIDNAPPING 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "00e3471465f437e7bd0712f4c3fd5c2683f26e46b731c363b775ccd186ebbd0c",
+    "id": "cdfbdbe26de808ab"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
+    "nature": "FELONY HARASSMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "0bdbd24d9af0f81e4391962005a22b0c8a07883f35cde5fc5dd55939616a624a",
+    "id": "ecbed34a88a869e3"
   }
 ]
