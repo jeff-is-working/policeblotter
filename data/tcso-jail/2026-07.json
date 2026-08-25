@@ -580,6 +580,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-06T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410004334",
+    "raw_hash": "3dcf47143527905b5a6511c8d87acf5562d032be4b8e48dda8478371c0783627",
+    "id": "b4fb9ef688487194"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-06T00:00:00",
     "nature": "ASSAULT 3RD DEGREE",
     "location_block": "",
     "city": "",
