@@ -4960,6 +4960,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-25T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610100434",
+    "raw_hash": "06327aa1f5534447f2a39c2a2c06c9750ca97e1a3e35be9c02fa58dfd702108a",
+    "id": "36edfd7827b38678"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
     "nature": "CRIMINAL TRESPASS 2ND DEGREE",
     "location_block": "",
     "city": "",
@@ -5056,6 +5068,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-25T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (3 OR MORE PRIORS IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610113034",
+    "raw_hash": "597cbf63240b095a81ccd5e0b63957d5a0bcdedce967ef4918985be3e5108ce2",
+    "id": "c613708f5db6381c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
     "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
     "location_block": "",
     "city": "",
@@ -5122,5 +5146,41 @@
     "case_number": "CHARGE:",
     "raw_hash": "0bdbd24d9af0f81e4391962005a22b0c8a07883f35cde5fc5dd55939616a624a",
     "id": "ecbed34a88a869e3"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-25T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610100434",
+    "raw_hash": "856f165cfda6eeae16038ef716bdf863c21917f6f46557fe22bc09dd1793b90d",
+    "id": "f7ce39149baf0435"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-26T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00136271",
+    "raw_hash": "ee95972e7bcc6e7d0c9ef4c1efeb5e3edd5ca8570c96e0ee75ed6398cd05d618",
+    "id": "2218d3c2565b8514"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-26T00:00:00",
+    "nature": "THEFT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00136271",
+    "raw_hash": "d9a5d17b29f0da636b0365bb05635299da7b5e3bfb821e51bca7a10dedb4e30a",
+    "id": "73a7f9b085b98eef"
   }
 ]
