@@ -243,6 +243,18 @@
     "source": "tcso-jail",
     "agency": "Thurston County Sheriff",
     "type": "booking",
+    "datetime": "2025-12-25T00:00:00",
+    "nature": "FELONY VIOLATION OF PROTECTION ORDER DV (2 PRIOR)",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510162634",
+    "raw_hash": "f5bf71ededa9dc9cb3f2057fb9b1d7f425c148853eb998b27ae1f516e0782f5a",
+    "id": "8fc82ffc599c2d7f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
     "datetime": "2025-12-27T00:00:00",
     "nature": "BURGLARY 1ST DEGREE DOMESTIC VIOL",
     "location_block": "",
