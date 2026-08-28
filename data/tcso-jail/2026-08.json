@@ -5620,12 +5620,48 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-27T00:00:00",
+    "nature": "FELONY HARASSMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "7436abe4720fff4861546e6c811e03340f3238b657a761fe69a12deb18d5b667",
+    "id": "0c6986dc33e7e3bd"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
     "nature": "DWLS 3rd DEGREE",
     "location_block": "",
     "city": "",
     "case_number": "3A0675437",
     "raw_hash": "0a44c4f8da72d4e44fb19b078c9e4a18d8188c50ed89d997be77e2db3d6f59d8",
     "id": "1a8714bf009d7448"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
+    "nature": "UPCS WITH INTENT TO DELIVER SYNTHETIC NARCOTIC WHILE ARMED",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "57c99305efd152dc7ca323890594272a87a5a06a5c121ff75f442e2eb945726e",
+    "id": "279b41ae3937c999"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
+    "nature": "CRIMINAL TRESPASS 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610081334",
+    "raw_hash": "5cea548c8daad3cdf00096e9495e39a0f9c5635628254cbadf079ef3b8d6fb99",
+    "id": "2c2f3bc553d82775"
   },
   {
     "source": "tcso-jail",
@@ -5650,6 +5686,18 @@
     "case_number": "2610114334",
     "raw_hash": "8d25084e3427d5b3ea49e7f8a0981355dea44b61b6198cb45e8f5406c0f98533",
     "id": "35495cd817e762cf"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
+    "nature": "POSSESSION OF STOLEN VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610067134",
+    "raw_hash": "6df8c3fdfb2d5778411b2793a1b4fbf48e0589ca60847c5888f552d059adc02f",
+    "id": "45485fe72bf96cde"
   },
   {
     "source": "tcso-jail",
@@ -5716,6 +5764,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-27T00:00:00",
+    "nature": "DWLS 3rd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00796274",
+    "raw_hash": "8e0452684058707e66f1812af412b13c76ea00f331419e9793de6cb028dfa4ce",
+    "id": "71869e608fc631f4"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
     "nature": "THEFT 2ND DEGREE",
     "location_block": "",
     "city": "",
@@ -5728,12 +5788,36 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-27T00:00:00",
+    "nature": "PEDESTRIAN INTERFERENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "7ea8dec41beb0a67572741e0d61ff1f959f36ac8d16a33d16f49edcfe2bdb40a",
+    "id": "9d63fd9cb838e721"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
     "nature": "UPCS (UNSPECIFIED)",
     "location_block": "",
     "city": "",
     "case_number": "2410076134",
     "raw_hash": "9399bb66fb46e7cbf8ab10833227d307967ee3b611161baaef02c51e082bc1d9",
     "id": "9dd8e4c5823dc9af"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
+    "nature": "POSSESSION, USE OF CONTROLLED SUBSTANCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "79078754aeaf9c72f23d4ff1b1a9d11bc2c14924e45d2c7e20e4763a918fde4d",
+    "id": "a9c50bfc287757ee"
   },
   {
     "source": "tcso-jail",
@@ -5764,6 +5848,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-27T00:00:00",
+    "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00796274",
+    "raw_hash": "b4babc0f2a60c86c014aaa536852539694aa5ec821d473ecee92b1d6c535bde6",
+    "id": "d080fca62f258ded"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
     "nature": "ELUDING A POLICE VEHICLE",
     "location_block": "",
     "city": "",
@@ -5782,6 +5878,18 @@
     "case_number": "2610058734",
     "raw_hash": "c37c9d106c8498d079602556f0809462d466f11e2ee9b301ffc74923cf040d20",
     "id": "e689ae8c75c16109"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
+    "nature": "FELONY HARASSMENT DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610114434",
+    "raw_hash": "3e70b1803e53c3b0f52fd8a9a4e9fa5ba93e9e8ed1f3e864db1c6ff25e3f3e5c",
+    "id": "e88605398c450967"
   },
   {
     "source": "tcso-jail",
