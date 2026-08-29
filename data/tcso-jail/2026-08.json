@@ -6274,5 +6274,41 @@
     "case_number": "T00763063",
     "raw_hash": "be7fe91f388c0c618984f28fd0e3ce05f0d4f6b74defbe9e0b21e69cf83b33d1",
     "id": "ef8837cc61587e42"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-29T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "9d5564ab1d12864c108603ed11e9f1d0a22dce17cf92b46b9b432305b8924923",
+    "id": "1a023ac76ba92dc1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-29T00:00:00",
+    "nature": "TAKING MOTOR VEHICLE WITHOUT PERMISSION 2ND",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "5f559380fd97fb5b9d7656fccfa26f1bd5ccd3fe4943552b28d3caa98ecb7c97",
+    "id": "b419d26b8cd13fcc"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-29T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00330643",
+    "raw_hash": "a91cc1514c2441027324bd3372756065927e5dea2fd4f5e299985cf6edfa68df",
+    "id": "e74668dc4b0bc5bb"
   }
 ]
