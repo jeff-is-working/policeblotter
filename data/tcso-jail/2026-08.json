@@ -6322,5 +6322,29 @@
     "case_number": "T00330643",
     "raw_hash": "a91cc1514c2441027324bd3372756065927e5dea2fd4f5e299985cf6edfa68df",
     "id": "e74668dc4b0bc5bb"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-30T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "c17517b75b8a3e1af6c7aa4e102c6a6895f318d0980834f8f836e9c8f49c1094",
+    "id": "100d8c55a1069166"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-30T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0395096",
+    "raw_hash": "b9dc38b9f7316f2527c6724a94b5375bfdc2e6e64d01fb586c272191928e4bac",
+    "id": "70a83b3487021454"
   }
 ]
