@@ -6292,6 +6292,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-29T00:00:00",
+    "nature": "UPCS WITH INTENT TO DELIVER HEROIN",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "6aa188e0c07df4345aeac7ebd2018fd1568f03ccfd6afad142e43e391f3fa664",
+    "id": "ae22c17428efe685"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-29T00:00:00",
     "nature": "TAKING MOTOR VEHICLE WITHOUT PERMISSION 2ND",
     "location_block": "",
     "city": "",
