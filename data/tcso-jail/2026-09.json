@@ -1,0 +1,26 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-01T00:00:00",
+    "nature": "BURGLARY 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610077434",
+    "raw_hash": "ac2ca7cbf15856dbd49fb36b3f6d307c267cd58e4db5ed8869502a583988b150",
+    "id": "9173706bdcc3844d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-01T00:00:00",
+    "nature": "VIOLATION OF RESTRAINING ORDER/OVER 2 CONVICTIONS",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610117034",
+    "raw_hash": "b92897964887169aea9fd97f2b61d7b5daf5b9ff278445a42a4a1f9d38dba08c",
+    "id": "c754e6622cef47cf"
+  }
+]
