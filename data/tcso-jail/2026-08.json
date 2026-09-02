@@ -6364,6 +6364,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-28T00:00:00",
+    "nature": "THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610116234",
+    "raw_hash": "2be87bb75a349e1a8ea900cd4068eb97025c9442eee95377e5fe559a279a8589",
+    "id": "df507ef5a669314c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-28T00:00:00",
     "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
     "location_block": "",
     "city": "",
@@ -6382,6 +6394,18 @@
     "case_number": "CHARGE:",
     "raw_hash": "9d5564ab1d12864c108603ed11e9f1d0a22dce17cf92b46b9b432305b8924923",
     "id": "1a023ac76ba92dc1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-29T00:00:00",
+    "nature": "THEFT OF MOTOR VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610116134",
+    "raw_hash": "8cc26bfc5b4c497f906a30db980df4c32391dc108e7356ac92ab5b60ee38b097",
+    "id": "1ebe12cd2a7af4f9"
   },
   {
     "source": "tcso-jail",
@@ -6574,6 +6598,18 @@
     "case_number": "26DV0814",
     "raw_hash": "657b2753649e891adc896d415e4a99e957afc61d3b8a614fbe3021b4992daaaa",
     "id": "8b99ab8183b16e5d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-30T00:00:00",
+    "nature": "STALKING DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610115834",
+    "raw_hash": "466dcec28b45b46c7c168f4b56cfaf03b11d7aab87eb5f92fc5b775347ac5aa5",
+    "id": "c661e18dea107a6c"
   },
   {
     "source": "tcso-jail",
