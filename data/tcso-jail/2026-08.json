@@ -5632,6 +5632,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-27T00:00:00",
+    "nature": "UPCS WITH INTENT TO DELIVER COCAINE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610115634",
+    "raw_hash": "c68db3696b7cb14b3dbb69f4a575b4b42d9600387fcd9b2c4194507e1b68fb60",
+    "id": "00d6516d2ec7f16d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
     "nature": "THEFT OF MOTOR VEHICLE",
     "location_block": "",
     "city": "",
@@ -5728,6 +5740,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-27T00:00:00",
+    "nature": "THEFT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610115534",
+    "raw_hash": "79ce526a9680a9d2c994500decda767708c2f62357f18ec1a24c2aee49260f6a",
+    "id": "3425ed34989a3587"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
     "nature": "MANUFACTURE/DELIVERY/POSSESSION WITH INTENT TO DISTRIBUTE IMITATION CONTROLLED SUBSTANCE",
     "location_block": "",
     "city": "",
@@ -5794,6 +5818,18 @@
     "case_number": "2610114934",
     "raw_hash": "f3ed3df305c471e864b0981f0575a79f195a3daa2289e8cd0048b36ef98963b5",
     "id": "5120bd3a45e2fc1e"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-27T00:00:00",
+    "nature": "UPCS WITH INTENT TO DELIVER SYNTHETIC NARCOTIC",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610115634",
+    "raw_hash": "2d2966ce715af2dfebfc072ffcbd1d6a1075adabb8989e8f8d0a7ce4a3eb2e33",
+    "id": "5127def21a4ff9e7"
   },
   {
     "source": "tcso-jail",
@@ -6574,6 +6610,18 @@
     "case_number": "6A0018734",
     "raw_hash": "80741c775472e2f1e98baf98343d129dc2627de23c61218c6cd177d7b0fb108c",
     "id": "28b270b5756e4794"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-31T00:00:00",
+    "nature": "ATTEMPTED RAPE 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610116934",
+    "raw_hash": "2fd057200df52768d1dd4bc04694be12735fa89fe93aa674db0493b88daba173",
+    "id": "2a78f710f34f3ae4"
   },
   {
     "source": "tcso-jail",
