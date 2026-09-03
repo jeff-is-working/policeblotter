@@ -298,5 +298,77 @@
     "case_number": "4Z0211929",
     "raw_hash": "6bc15bd75d8034ade50672191903f924679be130f9c505db8b927e7b59952085",
     "id": "f87fe74b59a3d606"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-03T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00681238",
+    "raw_hash": "1bc9188698c5f6cb706cf7aa895a28ca84cae07c9074ae67578455cd86fe86ec",
+    "id": "3c172c8253454b38"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-03T00:00:00",
+    "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00384491",
+    "raw_hash": "c55eb33485f1dfbe0089dd06aef9c08a65eae611de8db98f33cc42afa4c3d366",
+    "id": "3c5fad50fd3cb254"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-03T00:00:00",
+    "nature": "HIT AND RUN ATTENDED - VEHICLE AND /OR PROPERTY",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "e8a5dc9823f7eb0c0853ff7741d52bd0e39120c4447c4c059de2639e3c3491a1",
+    "id": "65c48bf195a26cc5"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-03T00:00:00",
+    "nature": "ATTEMPT TO ELUDE PURSUING POLICE VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "ec4be7dadf7cca0a09fb2be2a9e1575c61e1be69662fa6ae47a59edfad745b56",
+    "id": "771babc2d4bebbe2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-03T00:00:00",
+    "nature": "DWLS 1st DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00384491",
+    "raw_hash": "8b7e079fe9619d8a1a25a2923f6417c1d16ec4777d662c5459fe00dc2be55e2e",
+    "id": "849b336c395b6791"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-03T00:00:00",
+    "nature": "CRIMINAL IMPERSONATION 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "e09dd327befff15efe73ab4fe80f1f10defb2fad0a1255593769224fe7110bb9",
+    "id": "beaf3ffed43c9ac4"
   }
 ]
