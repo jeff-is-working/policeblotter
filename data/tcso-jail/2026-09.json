@@ -112,12 +112,48 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-02T00:00:00",
+    "nature": "USE/DELIVER DRUG PARAPHERNALIA",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0183349",
+    "raw_hash": "be1c455b99d3491f91a9e5e5f0968cbefc92faf5a39369dfecf7c89d820d474f",
+    "id": "3751e3f6c461bf69"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-02T00:00:00",
     "nature": "DWLS 1st DEGREE",
     "location_block": "",
     "city": "",
     "case_number": "4Z0460213",
     "raw_hash": "30bc9700e106ac12e10c7974760b7bf8c8357650f8a84c74256b618d47d09540",
     "id": "4e0b816938dd92e8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-02T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE - LAW ENFORCEMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "1a32e83b0beccf5698164f8cad6bff3505dfb5e206b565397fbe9e6d5fcc64d7",
+    "id": "4ee2acfbea37d2a8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-02T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610000234",
+    "raw_hash": "0ad972b125cd7e75c0cc5464933a9e680c50c5adb1258ec38c3b0c2dd8213864",
+    "id": "5979df3bf593f423"
   },
   {
     "source": "tcso-jail",
@@ -184,6 +220,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-02T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "20M00343",
+    "raw_hash": "b7031c6dd353f1b3355ec0602047b938d7d880fe11ba90c07be943ff5a0153c9",
+    "id": "9d3f217f913e533b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-02T00:00:00",
     "nature": "COMMUNICATION WITH MINOR FOR IMMORAL PURPOSE",
     "location_block": "",
     "city": "",
@@ -202,6 +250,18 @@
     "case_number": "26M00311",
     "raw_hash": "44c267e674e56044f968d42cb782ad9aefadec015d0d45079088ea9e225091e0",
     "id": "c597a7a3146c55d4"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-02T00:00:00",
+    "nature": "CRIMINAL TRESPASS 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0183349",
+    "raw_hash": "cbea92d5870b695bd155bb7b545f85da7aef8625d70cc2ccbb958d3ad1e1dacd",
+    "id": "dd067f703a035175"
   },
   {
     "source": "tcso-jail",

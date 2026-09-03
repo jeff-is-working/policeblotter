@@ -124,6 +124,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-02T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610069834",
+    "raw_hash": "57b682250cd246331da81df02392b4350c1b374ec429fb57fb1ad1311d184607",
+    "id": "02465d9588b61204"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-02T00:00:00",
     "nature": "POSSESSION OF STOLEN VEHICLE",
     "location_block": "",
     "city": "",
@@ -190,6 +202,18 @@
     "case_number": "4A0699760",
     "raw_hash": "6331dcc280fece0df9a5e87e54bb0f0c53634387f13120c60100ff97a519b543",
     "id": "6e77ec004ddfe475"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-02T00:00:00",
+    "nature": "TAKING MOTOR VEHICLE WITHOUT PERMISSION 2ND",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610069834",
+    "raw_hash": "3ea652b96caa734e221e0c79d72add1e82008cde4768f1a3d08f02f364fb7d8d",
+    "id": "884f83863f46380a"
   },
   {
     "source": "tcso-jail",

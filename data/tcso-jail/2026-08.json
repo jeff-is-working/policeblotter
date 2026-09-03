@@ -6604,12 +6604,36 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-30T00:00:00",
+    "nature": "HARASSMENT THREAT TO KILL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610115834",
+    "raw_hash": "77f9410abf5cb887ca8a615d3e064b967a9aa174d402c31d2ee5c1e4608e5f9e",
+    "id": "b57abe2007f6466b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-30T00:00:00",
     "nature": "STALKING DOMESTIC VIOLENCE",
     "location_block": "",
     "city": "",
     "case_number": "2610115834",
     "raw_hash": "466dcec28b45b46c7c168f4b56cfaf03b11d7aab87eb5f92fc5b775347ac5aa5",
     "id": "c661e18dea107a6c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-30T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610115834",
+    "raw_hash": "e6b55c9c9e358e18d66164e11d864926d0dd3f289785cc8e154fb59026c11525",
+    "id": "d20c7b1c4834b43b"
   },
   {
     "source": "tcso-jail",
