@@ -328,6 +328,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-03T00:00:00",
+    "nature": "UPCS WITH INTENT TO MANUFACTURE SYNTHETIC NARCOTIC",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "b9d3f6a8ca8ce2d91b57ac8dafd352f678d76bd919b3e12a0c955816d091a369",
+    "id": "33b510f3355cabe9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-03T00:00:00",
     "nature": "ARSON 1ST DEGREE",
     "location_block": "",
     "city": "",
@@ -484,6 +496,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-03T00:00:00",
+    "nature": "BURGLARY 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610114534",
+    "raw_hash": "666ea8dccf7e073ff3dd0c5b35cae1869549085c2f86ef47a77fec61639f191f",
+    "id": "bc310938171d91f1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-03T00:00:00",
     "nature": "CRIMINAL IMPERSONATION 1ST DEGREE",
     "location_block": "",
     "city": "",
@@ -514,5 +538,41 @@
     "case_number": "CHARGE:",
     "raw_hash": "3002c0667711a78ccaab7779efddf32c3a355f79c60b2785a199b74af109df07",
     "id": "d5834319fccf1412"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-03T00:00:00",
+    "nature": "THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610114534",
+    "raw_hash": "7ae5ad6634a4e37f6ff5a8076a7567773f57f1ce92c35cc35dc4650a40be5254",
+    "id": "f325b1c94e390fd5"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-04T00:00:00",
+    "nature": "DWLS 3rd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "5A0535341",
+    "raw_hash": "9bbe306ce155bb8ec3de72cf06f210b045b3c1b291b9b1e14206d6112fb16e1b",
+    "id": "80cb253d1a27a171"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-04T00:00:00",
+    "nature": "NEGLIGENT DRIVING IN THE 1st DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "5A0535341",
+    "raw_hash": "ffa16149c3ebc47ab73d56d04c22ccb9e8d843ef326f6963ac22ce9f5f89e694",
+    "id": "e5f3c3f0a745be48"
   }
 ]
