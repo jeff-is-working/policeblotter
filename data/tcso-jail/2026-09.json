@@ -844,6 +844,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-04T00:00:00",
+    "nature": "VIOALTION OF PROTECTION ORDER - DV",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "dd46d4dadcf14f1cfcbc5cf946ad1f7b2bd875565fa2030f7b937e8dff52b8b1",
+    "id": "7fcf69496cff74a0"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-04T00:00:00",
     "nature": "DWLS 3rd DEGREE",
     "location_block": "",
     "city": "",
@@ -898,5 +910,53 @@
     "case_number": "5A0535341",
     "raw_hash": "ffa16149c3ebc47ab73d56d04c22ccb9e8d843ef326f6963ac22ce9f5f89e694",
     "id": "e5f3c3f0a745be48"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-05T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00777926",
+    "raw_hash": "72310ccd75d19340e06d4ebb19e7c8c2ba3e81c44e740af3a9727a76004b6bb2",
+    "id": "1dffb1a9d9ea0662"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-05T00:00:00",
+    "nature": "ATTEMPT TO ELUDE PURSUING POLICE VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "bc986da6832e84a406a2c911db4720483fc3f8ce5854bdcb711366fe72d27052",
+    "id": "7463f502ff2c1215"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-05T00:00:00",
+    "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00777927",
+    "raw_hash": "4b06cb9d4473b349a438d53cd2ea2839e4a66966a3471833120121dde3aa1e66",
+    "id": "848f356fbd30d7fc"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-05T00:00:00",
+    "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "fe4e55bcc03ff26b3694a218f0ffef1aa1f2d4f2133351c0821e41cb3f6e4e53",
+    "id": "bac8619e012d0aae"
   }
 ]
