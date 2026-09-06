@@ -928,6 +928,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-05T00:00:00",
+    "nature": "STALKING DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "eeb3ba6fb75d3470eb65a002cc5f6e5cc054b5b8f756a9e6ebc60eb5072cb08d",
+    "id": "44389ae1c3bed31c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-05T00:00:00",
     "nature": "ATTEMPT TO ELUDE PURSUING POLICE VEHICLE",
     "location_block": "",
     "city": "",
