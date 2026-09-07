@@ -1162,5 +1162,41 @@
     "case_number": "CHARGE:",
     "raw_hash": "825cfaedacf0bb598ab2a6904471ad7b354e490b9a4cbf5a5aea56963959be9d",
     "id": "f5855a2e276c7a1e"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-07T00:00:00",
+    "nature": "POSSESSION OF STOLEN VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610005334",
+    "raw_hash": "7e7d9f050e7b81334345a53e6d8a4c72d3398f353a4c2f302a2e9d394addd572",
+    "id": "7ca11effb5993fe3"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-07T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610048634",
+    "raw_hash": "de6c86c84ce637f9d1bb331d967705b2567833e9b4bff0983c742450a4c19b89",
+    "id": "9067681e167def34"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-07T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "4c480b97501237cd5fae266e888f04e07d525c0db277ab92e87ed57c88a7cdee",
+    "id": "b006f0a28a1affe6"
   }
 ]
