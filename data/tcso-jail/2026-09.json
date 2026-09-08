@@ -1198,5 +1198,17 @@
     "case_number": "CHARGE:",
     "raw_hash": "4c480b97501237cd5fae266e888f04e07d525c0db277ab92e87ed57c88a7cdee",
     "id": "b006f0a28a1affe6"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-07T00:00:00",
+    "nature": "VIOLATION OF A PROTECTION ORDER DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "2a5020cef8e11f3d309f6a69bd5b27ea9d2b7ace65f6a45a98e6ddfaf406ab0a",
+    "id": "e47cc9b1a61ed5d4"
   }
 ]
