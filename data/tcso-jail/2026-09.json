@@ -1228,6 +1228,30 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-06T00:00:00",
+    "nature": "ROBBERY 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610119734",
+    "raw_hash": "e0bbbd10a64f5d95b6277ad36478dbfd972078d0adb284cc4f7e22cdfe14968f",
+    "id": "40b34f49e4fed8e1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-06T00:00:00",
+    "nature": "THEFT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610119734",
+    "raw_hash": "620d39f00584dd30a0a2e3dc3723acd3555c1ccd0234aed6fb9fd699aa1c6e00",
+    "id": "4bccceba94e1710c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-06T00:00:00",
     "nature": "MALICIOUS MISCHIEF 2ND DEGREE (EXCESS $750)",
     "location_block": "",
     "city": "",
@@ -1546,6 +1570,18 @@
     "case_number": "2610120234",
     "raw_hash": "ca121363a23cf17f1ec9cc2968076c1ff57469e9ddf2dd51111244beda63b62e",
     "id": "41c903bc6a19985f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-08T00:00:00",
+    "nature": "INTIMIDATING A WITNESS",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610119234",
+    "raw_hash": "531642a7ea4eeb026cce28f4ec05a6219cbc22b1b7abdaeacc4f1f757c1861a6",
+    "id": "448e78ba0a4e9004"
   },
   {
     "source": "tcso-jail",
@@ -1960,6 +1996,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-09T00:00:00",
+    "nature": "POSSESSION OF STOLEN VEHICLE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610091734",
+    "raw_hash": "7ef10b6e80e3aac9426f11f8f706475e03eb6059f514321159561de3ff2c4b46",
+    "id": "6e5d167c095a23f8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-09T00:00:00",
     "nature": "MALICIOUS MISCHIEF 2ND DEGREE (EXCESS $750)",
     "location_block": "",
     "city": "",
@@ -2002,6 +2050,30 @@
     "case_number": "2610119334",
     "raw_hash": "deb03313701e5fd6166bd26b608399c95b15a71fb9ec69732f94ade2c81d5555",
     "id": "b4831faf56e86b00"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-09T00:00:00",
+    "nature": "RESISTING ARREST",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610091734",
+    "raw_hash": "b9287559035c38c9546c88ef2553d239f74c68f99a082859f347e8a203fc8e16",
+    "id": "bde2319e5ee2116f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-09T00:00:00",
+    "nature": "DWLS 2nd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0289061",
+    "raw_hash": "261730ffdbbe7d88da09e9c5cef05aa12002ab3fa847d8c3e1901fe723ac2a49",
+    "id": "c8498cc521f9530b"
   },
   {
     "source": "tcso-jail",
@@ -2086,5 +2158,17 @@
     "case_number": "25M00249",
     "raw_hash": "f6d290216b3fb8fa30d8e30db48b782dc7c01abd9ce6c7c696fca10cbfc1db7e",
     "id": "f9e01d2129eba6d7"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
+    "nature": "CRIMINAL IMPERSONATION 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "125e2f28072fa9dc3f529b04c36297276d180f1f8a60b3673484f9fc2ab54a00",
+    "id": "4e30d24d06834787"
   }
 ]
