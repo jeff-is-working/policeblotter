@@ -2683,6 +2683,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006364",
+    "raw_hash": "773d7ebedd0e6eaf5583b057e056cd01cd54fdd75918e6f0a3ce06c227488980",
+    "id": "05303a888239e965"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006361",
     "raw_hash": "48d47b3bdcc6f9f1927b4382975e23d98aecda47de7a51765856a6caaacaff63",
     "id": "07f71f99d93fa73f"
@@ -2863,6 +2875,30 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006369",
+    "raw_hash": "82ea2569e05e73db1237f3bf7b70ea9041f179ef697945c1a226011cc7c59d87",
+    "id": "51c41703ad2aa2bb"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006370",
+    "raw_hash": "6460fca6c8de90de7e9a7a5b60e9a53fdf162b3a5ca0b39093c20193a4936164",
+    "id": "522d49cf40395873"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006356",
     "raw_hash": "80cb0186723f8e457fc101ba3426fda3e71442364dc6ae5bb60df380a123ba3c",
     "id": "593b10e2643430e5"
@@ -3007,6 +3043,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006368",
+    "raw_hash": "a460c00110f552cd8bd5c5b68d99627750ad9821bcc73890762d781652a07f4e",
+    "id": "b498a05f6546d057"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006335",
     "raw_hash": "a930302f13b1ee85efb2675cac9c7abd0bda329706b845a21697e12face2e0a0",
     "id": "c834c9330daa806c"
@@ -3082,5 +3130,65 @@
     "case_number": "26006366",
     "raw_hash": "7c83a52017fd1344132fe62a14ff3e9e078b034f79b87333df3ba971ea6381ff",
     "id": "f7c22efe4afb0599"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006363",
+    "raw_hash": "c5e51ebc409f9371c1e57bcb4ad0e1fca016f0c85cd9a0846768be88b937bd13",
+    "id": "fff239cbc5db4135"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006374",
+    "raw_hash": "aa328418441c0566762e78c24c8625ff80710aa83b762c7ab03f952e12dd7b19",
+    "id": "bb9d7dc339a91353"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006373",
+    "raw_hash": "397a19fe4e6c6c3c77501e4755dfab6a272f83a67a1a84599f1dd3af3d7d1860",
+    "id": "cabbd58613686eb6"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006372",
+    "raw_hash": "f9023821538b332d00af2df208ea261fcb715cb787d6582ed166de626a05c076",
+    "id": "eed5eb0a9a222501"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006371",
+    "raw_hash": "1c91def15511c7758a4611fbf654bc55ad7feb1759537d63c83e855d90b6f711",
+    "id": "fc49b2028b953ff1"
   }
 ]
