@@ -2212,6 +2212,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-10T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610121534",
+    "raw_hash": "a036faaf555b80bdf130a646b630802aee10cb65d533b57d61041820c92129a9",
+    "id": "0592a1b5a5bf7136"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
     "nature": "POSSESSION, USE OF CONTROLLED SUBSTANCE",
     "location_block": "",
     "city": "",
@@ -2260,6 +2272,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-10T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 3RD DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610121534",
+    "raw_hash": "38e7b1ebf4a02cda5e0165d4c9c6e38bb9e7a07f67dadf9c9b75bc1effaa10d0",
+    "id": "7802e732ede55d5a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
     "nature": "UPCS SYNTHETIC NARCOTIC",
     "location_block": "",
     "city": "",
@@ -2296,6 +2320,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-10T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610121234",
+    "raw_hash": "fbe6e60e1cfa11ae71a047e45656fcda6a4bdcc7f1df3f46ece21bd745ded324",
+    "id": "c9a5725c93511463"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
     "nature": "ASSAULT 2ND DEGREE DOMESTIC VIOLENCE",
     "location_block": "",
     "city": "",
@@ -2314,6 +2350,30 @@
     "case_number": "2510091034",
     "raw_hash": "a9479ebb1519e7c5292d8add1ae2c341ecd35c110aea9456b8433c03b51c42a9",
     "id": "d31b98ba03d72c83"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
+    "nature": "PROTECTION ORDER VIOLATION WITH ASSAULT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610121534",
+    "raw_hash": "193f1f44d841a6245653b8ae065d27aca89aeeb0040a1cfa3cde3bc8972004c1",
+    "id": "d840640c4199a05e"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-10T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610121534",
+    "raw_hash": "99d757ba3e22184f6a2a20e35132d342c3c07dffa7f0c2e8b8b7b4b33ca1cdd1",
+    "id": "e000053033c62fc3"
   },
   {
     "source": "tcso-jail",
@@ -2344,12 +2404,36 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-11T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 1ST DEG-DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610121434",
+    "raw_hash": "b6a00868476ddc974c309a3274b390f509547f1bfad6ca8532b926afe71d72bb",
+    "id": "1599774f914ef7c8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
     "nature": "USE/DELIVER DRUG PARAPHERNALIA",
     "location_block": "",
     "city": "",
     "case_number": "2610086734",
     "raw_hash": "18eaa8b0e77d279f696b4a20fcc588b4fd83526de9ff9f36cd3bcc6953e4c077",
     "id": "176eff3bb68e1882"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
+    "nature": "IDENTITY THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "6e09d2d779625e4a0ff4481e00990701e125fe0c438c3794c2fa309f1674b2b1",
+    "id": "1a3c1107da92e998"
   },
   {
     "source": "tcso-jail",
@@ -2386,6 +2470,18 @@
     "case_number": "CHARGE:",
     "raw_hash": "c25e4f60c1a897c1ee04988dcb2d3915823ec5efaf87b500dad6c2e4623612d8",
     "id": "75df61d1960fc4e2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
+    "nature": "FELONY HARASSMENT DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610121434",
+    "raw_hash": "a5fdda8a2c6e4c11579767747afce1f00b31b25566b58e5046c22da69a6f8ced",
+    "id": "7e70ba69550a70e0"
   },
   {
     "source": "tcso-jail",
