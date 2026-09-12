@@ -2440,6 +2440,30 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-11T00:00:00",
+    "nature": "POSSESSION OF STOLEN PROPERTY 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "a04b679f207f84399e7c77521a1079f41167c7c3faf925bdb63d12691374811b",
+    "id": "4df1944b9487899a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "e8521c61675b42c469c5abe2d08fa28d01815111fe806a2e51acc40131c6fb98",
+    "id": "58581c4d4b90fa97"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
     "nature": "POSSESSION OF CONTROLLED SUBSTANCE IN CORRECTIONAL INSTITUTION",
     "location_block": "",
     "city": "",
@@ -2500,6 +2524,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-11T00:00:00",
+    "nature": "UPCS WITH INTENT TO DELIVER SYNTHETIC NARCOTIC",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610102734",
+    "raw_hash": "3643b9e77096fd14d003aa0e59ea1cc6739607c05b8e3d66a3a5a6eb48a1258f",
+    "id": "998f65e40ba59725"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
     "nature": "DRIVING UNDER THE INFLUENCE",
     "location_block": "",
     "city": "",
@@ -2530,5 +2566,41 @@
     "case_number": "2610086734",
     "raw_hash": "a07653a5b93db00acfb9d9bcb41acc2725d6106d5156a003532a4a59f709b0c2",
     "id": "bb43be1eb6e0f89d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-12T00:00:00",
+    "nature": "OAA",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "5fd9edd789c99c3fb1010c9cf48552cac395a517e2b1592ea3cb48761a5736b3",
+    "id": "0d4b1987ddabb74a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-12T00:00:00",
+    "nature": "CRIMINAL TRESPASS 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00362164",
+    "raw_hash": "2e87cf2c03b750ddea9ed57ca467b9c847f5e2d586863b15db7623f4eae32646",
+    "id": "8eef71b574f240dd"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-12T00:00:00",
+    "nature": "CRIMINAL TRESPASS 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00246028",
+    "raw_hash": "f985f7b44db5f9bae3762da1791ca4f1d2bf43d52f4c173e147c95c9146b2465",
+    "id": "b3e0f4da66543380"
   }
 ]
