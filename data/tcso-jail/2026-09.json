@@ -2443,6 +2443,18 @@
     "nature": "POSSESSION OF STOLEN PROPERTY 2ND DEGREE",
     "location_block": "",
     "city": "",
+    "case_number": "2610122434",
+    "raw_hash": "58a4ff0e62956743a7cda565074747a26e4ee1b293aa1d3c175add81ad373ad5",
+    "id": "4ded2a31ba48aac5"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
+    "nature": "POSSESSION OF STOLEN PROPERTY 2ND DEGREE",
+    "location_block": "",
+    "city": "",
     "case_number": "CHARGE:",
     "raw_hash": "a04b679f207f84399e7c77521a1079f41167c7c3faf925bdb63d12691374811b",
     "id": "4df1944b9487899a"
@@ -2470,6 +2482,18 @@
     "case_number": "2510018834",
     "raw_hash": "dd4d04ae49d4e545766afa5d77e5bb48804d92d6ec715dc49b7e9af9383af4b0",
     "id": "59d8eeb391bfee05"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-11T00:00:00",
+    "nature": "IDENTITY THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610122434",
+    "raw_hash": "ca70fd94915c0f230edbb3829b519437c42ff7439bac474ab1704d5e6abec1b1",
+    "id": "5c45c3cd38bf5f28"
   },
   {
     "source": "tcso-jail",
@@ -2674,5 +2698,65 @@
     "case_number": "T00801533",
     "raw_hash": "67f17b398309df61e48128a70ca51a979b367e4902ca067cf5bc6d45e627722d",
     "id": "f7e087911450549d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-14T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00736039",
+    "raw_hash": "75b03b84d778ad12aa0113c2cdcdcc1750f90694f0d8ac120e042048aaed19a2",
+    "id": "4964c336310e84c3"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-14T00:00:00",
+    "nature": "FELONY HARASSMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "8d97555141263cd8fee9c876bdd679ddfa27a782562ba809d7a29af1acd51620",
+    "id": "6a0a791b8314eee1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-14T00:00:00",
+    "nature": "CHILD MOLESTATION 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510127234",
+    "raw_hash": "229a17a9ccdef10ecc8199d58ab62092de92b99f0a48abc584c98a6be6bb5114",
+    "id": "6cc9187a18749fc5"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-14T00:00:00",
+    "nature": "VIOLATION OF A PROTECTION ORDER DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410042334",
+    "raw_hash": "d25024d007dd9ea53670ebd76fd8a986c60d40e6edb09dd36a30b0cae8bf7129",
+    "id": "ad549078c5e57cf9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-14T00:00:00",
+    "nature": "THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610042334",
+    "raw_hash": "2f92c3a83f171baa175a005c0893847bd3be2ccab48bf99776e25fe2f2a08ce8",
+    "id": "b6eb36ac30f52cca"
   }
 ]
