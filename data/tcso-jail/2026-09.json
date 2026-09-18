@@ -3784,6 +3784,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-17T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "1A0233700",
+    "raw_hash": "d8b25907633354daab520913053092c563c15610eb516584d6a6daa093aa28d7",
+    "id": "2317cf75c6397eb1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-17T00:00:00",
     "nature": "HARASSMENT THREAT TO KILL",
     "location_block": "",
     "city": "",

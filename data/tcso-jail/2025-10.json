@@ -87,6 +87,18 @@
     "source": "tcso-jail",
     "agency": "Thurston County Sheriff",
     "type": "booking",
+    "datetime": "2025-10-13T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510134434",
+    "raw_hash": "45de6d7a42f40c4d64fe9cd528c7c4375c41fe2df24817ba65f7078cd491115f",
+    "id": "7a68994b35930ec5"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
     "datetime": "2025-10-16T00:00:00",
     "nature": "ASSAULT 3RD DEGREE",
     "location_block": "",

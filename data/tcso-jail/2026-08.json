@@ -1132,6 +1132,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-08-05T00:00:00",
+    "nature": "INDECENT EXPOSURE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610106034",
+    "raw_hash": "79a1a36f7f03f7cb23d1e2485c7cf8e5a99f9eaebc35ea62bb6cb1493063c763",
+    "id": "31d6613b45f164a7"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-05T00:00:00",
     "nature": "THEFT 3RD DEGREE",
     "location_block": "",
     "city": "",
@@ -1162,6 +1174,18 @@
     "case_number": "241056634",
     "raw_hash": "2ba28f1b7e7e4c421bba696755f521971a407237f072aab6aae706410078cafa",
     "id": "4eb2f2001d3d107f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-05T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610106034",
+    "raw_hash": "db31844368c9f0241e21d611ddae1a23c1aeac49b3ee0b5fbdd29a047eb8beef",
+    "id": "63f16df3f7c41567"
   },
   {
     "source": "tcso-jail",
@@ -1246,6 +1270,18 @@
     "case_number": "2610105534",
     "raw_hash": "82ba96a3ef5f259a4665f3e46c97d44d8e91332fb5197839c1ae1cd34980e799",
     "id": "f550b13cab8839f7"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-08-05T00:00:00",
+    "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610106034",
+    "raw_hash": "8cd84ebfa117da4646a24172c81eb74180dfd34a76e11738941a0c643362d90c",
+    "id": "f72b545be5f6cda2"
   },
   {
     "source": "tcso-jail",
