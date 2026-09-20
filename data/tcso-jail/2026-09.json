@@ -4138,5 +4138,53 @@
     "case_number": "T00490460",
     "raw_hash": "620b5cfe0e4ca545201cd7380469516887ee7d57dc0e0df9caf337ad5ae52131",
     "id": "e2bdf57e20ab23ad"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-20T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00819268",
+    "raw_hash": "5dd59135b8af5010d298fbff60d99a2a1c177b61c311d46d805cead08b164ddd",
+    "id": "7e07d8ea28bc53d2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-20T00:00:00",
+    "nature": "DWLS 2nd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00819268",
+    "raw_hash": "80f7b3616bfec1bb1b0dbdaa6ee57613c6cc4d0493716832f948e7d40c5199d5",
+    "id": "af8f7d5782448a53"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-20T00:00:00",
+    "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00819268",
+    "raw_hash": "317faa3fffb4b746fc2c267a7ae0b735cdc8f0b1bc769db8e4571ad3e63db3d1",
+    "id": "d6dfc7fa5d5605bf"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-20T00:00:00",
+    "nature": "RECKLESS DRIVING",
+    "location_block": "",
+    "city": "",
+    "case_number": "4A0209287",
+    "raw_hash": "e635f6761a7071efa3a76f684f24b5179b7bd280b91ccf7ffd51bd482bc510b0",
+    "id": "f8221fcf4a88240c"
   }
 ]
