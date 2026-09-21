@@ -4144,6 +4144,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-20T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "2793a524216892773bdd74bb08eb4864620f2453490eab7dbc4bbed8202ebd44",
+    "id": "1ba621316378c163"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-20T00:00:00",
     "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
     "location_block": "",
     "city": "",
