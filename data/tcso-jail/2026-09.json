@@ -4690,5 +4690,17 @@
     "case_number": "CHARGE:",
     "raw_hash": "eb614d78c7f8212fc71c4a7de3de35c4a40912b9d7e9c025c1da30ff0806e911",
     "id": "ede570445eb2216f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-22T00:00:00",
+    "nature": "TAMPERING WITH A WITNESS",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610117834",
+    "raw_hash": "c2d09232ea03256ce6ed6e62656759ae9da85dde7d2b7764e0ec8b13901aa7bb",
+    "id": "7d6ad3625c8eb78a"
   }
 ]
