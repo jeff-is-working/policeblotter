@@ -6271,6 +6271,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006675",
+    "raw_hash": "9135675679f27b85c7f01624e9cd132afdf483b89e5c5ecb168c199e8ff6f0ad",
+    "id": "0009ff3895223a30"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-22T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006664",
     "raw_hash": "843cf3043bbdd5a2025f6233dfd6453593081a910a9b324adce2e6992d4dec2f",
     "id": "0434d10235c27565"
@@ -6547,6 +6559,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006673",
+    "raw_hash": "0bfcf9d4e8c49f3cc1f67118a5f5cf6dec621ba38939204c7af15675eb288c7b",
+    "id": "7f1674cc6f5f5393"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-22T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006657",
     "raw_hash": "b82d75897217cf05bc55ed354132f672dad28373c5894a7373615c78a3875ce0",
     "id": "820c7df3cd368430"
@@ -6619,6 +6643,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006674",
+    "raw_hash": "89515835ae0be2d971c1766f20154bd1c8f8aab927fc40ce036dc57a6d9d0b0e",
+    "id": "9973236958ca9a20"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-22T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006644",
     "raw_hash": "2a3b163720bad9014da369af0dd0ddb9da38fe9a3dd69984713a802121abdeec",
     "id": "a990c6d6c2dfce58"
@@ -6679,6 +6715,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006676",
+    "raw_hash": "bddfea36a0ff327b3d4400b60ed54deadd2a9a40eef2f3f1eb1da9d50ef2ee28",
+    "id": "e23c17ccbdc30a51"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-22T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006645",
     "raw_hash": "bd2a5a12998c0867fe812c0060636fb72480fb724f69261ed44a336b9fa5f39a",
     "id": "e74186b0aeb3a466"
@@ -6694,5 +6742,53 @@
     "case_number": "26006658",
     "raw_hash": "6cf22d47c06520b1eebe5299f874d05e1c049cc3477bc7a9c3be3d13efb661ba",
     "id": "fe00571d1b01f033"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-23T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006677",
+    "raw_hash": "2260f9cc32beeea2c2fbe430dc0fea31fc9ecdc7491e8a5f0b20ce01140e9ee4",
+    "id": "65b235e04239fb63"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-23T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006680",
+    "raw_hash": "5b25f2a39e0ec07e877536ac0c2cd426ca78e21d556891f01fbb232e07763f08",
+    "id": "b35be60af7f3f8a3"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-23T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006679",
+    "raw_hash": "803c5b63ead5600f3298526a946130a2c4d52a2f400f7a6d1eccd28035bfe144",
+    "id": "cc648f832fca16cb"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-23T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006678",
+    "raw_hash": "c01dac1aa6e56bc8fb8b3ae1c5d3e67ad547b63ff928259687245bce84a9f3be",
+    "id": "efa890efabde057a"
   }
 ]
