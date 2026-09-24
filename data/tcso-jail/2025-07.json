@@ -76,6 +76,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2025-07-25T00:00:00",
+    "nature": "ASSAULT OF A CHILD 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510098234",
+    "raw_hash": "eae9654f32ffe8ed546147d7bfa16554a7a56906505c551b9da9131c93e60974",
+    "id": "9b7a183cb10f0d44"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-07-25T00:00:00",
     "nature": "RAPE OF A CHILD 1ST DEGREE",
     "location_block": "",
     "city": "",
@@ -94,6 +106,18 @@
     "case_number": "2510098234",
     "raw_hash": "a1400e6ef17ae0ca79fe4bdf77802cc20d0576ced698752a4fdd576c0c461950",
     "id": "ce1cafc06bdb7226"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-07-25T00:00:00",
+    "nature": "CHILD MOLESTATION 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510098234",
+    "raw_hash": "08d65a51c53ffd05e567e7172e1a966786e2e848bfdfd09764eb8c035b909763",
+    "id": "ea714d5449fb0330"
   },
   {
     "source": "tcso-jail",
