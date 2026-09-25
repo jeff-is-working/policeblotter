@@ -5326,5 +5326,77 @@
     "case_number": "2610086834",
     "raw_hash": "3a843243d1b60a3a838da1d32e5fde4ecf0b359656d9cb988edeef15142315b8",
     "id": "db9c6d9924f8ff91"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-25T00:00:00",
+    "nature": "MATERIAL WITNESS",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510115934",
+    "raw_hash": "577549a31004a66c5635ef55bef3a001b1d8fc1613a02784fab26a39ae65e6fe",
+    "id": "234ea51f526a43ca"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-25T00:00:00",
+    "nature": "DWLS 1st DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0418247",
+    "raw_hash": "ac8c023d2bd490b827f10c9a1e87f6dc00d2d3555779f61751224d973e3416a0",
+    "id": "3d0197f68dde8196"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-25T00:00:00",
+    "nature": "USE/DELIVER DRUG PARAPHERNALIA",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0418248",
+    "raw_hash": "b7249ec088a0dc5fd2f4e1a0b692715ae1de4f699604f09e915df335052e775d",
+    "id": "8fc7d82afbfb5899"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-25T00:00:00",
+    "nature": "POSSESSION, USE OF CONTROLLED SUBSTANCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0418248",
+    "raw_hash": "30a3255486ceb1d042c4a2879ca3a09ff96d571d8645cba31286556d0dd962d3",
+    "id": "a227e7d43dab91d3"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-25T00:00:00",
+    "nature": "POSSESSION, USE OF CONTROLLED SUBSTANCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "26M00402",
+    "raw_hash": "f09ecf364f42132c3377e3549fbce6c9880a7c866eaaa602424d4459549683ad",
+    "id": "a88d2f9f8aa444a1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-25T00:00:00",
+    "nature": "POSSESSION OF DANGEROUS WEAPON",
+    "location_block": "",
+    "city": "",
+    "case_number": "26M00402",
+    "raw_hash": "dd1a44e43c8fc353519d635b34dd409f7962dd584b7fc16487b63c52eb3b1148",
+    "id": "e67a5241b55d9677"
   }
 ]
