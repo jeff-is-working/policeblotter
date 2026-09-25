@@ -5248,6 +5248,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-07-28T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510075534",
+    "raw_hash": "4b4d8db4e40ecd59de450d415bfdc25e408986ee94d6ff0fb323375d54fefeb4",
+    "id": "28a7663ba4523886"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-07-28T00:00:00",
     "nature": "MALICIOUS MISCHIEF 2ND DEGREE (EXCESS $750)",
     "location_block": "",
     "city": "",
