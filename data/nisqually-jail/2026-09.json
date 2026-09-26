@@ -7819,9 +7819,33 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006778",
+    "raw_hash": "e17a1cfc0a54b31e2f715b73764c6f0dec4027bd3d62d4e653866154212c82e7",
+    "id": "13cbdf46e5c7292c"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-26T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006775",
     "raw_hash": "d0b091d9c380dfce75f2791dc6dd2ace977ca26adcc4033365beffbe6e50f8f6",
     "id": "3c5a1bd0be43d0e7"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-26T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006779",
+    "raw_hash": "fca822000fc1c7791180b6c2a70feb2920eceabffd1c249a3adb349a800683ea",
+    "id": "517f9e4f61618f21"
   },
   {
     "source": "nisqually-jail",
@@ -7867,6 +7891,18 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006780",
+    "raw_hash": "89a4e6a979409e42753f0455aaa198238948bd707c9406e5feab2fd56488ce13",
+    "id": "b06a637aab1cda1c"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-26T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006772",
     "raw_hash": "cdb9e8b964cfd5f16383889bdb1edb94a8231676fad9fc80911f57a30ff8877f",
     "id": "c2d60234824a9f96"
@@ -7882,5 +7918,17 @@
     "case_number": "26006771",
     "raw_hash": "a8bddf2e29a16b2886433204a7f6ac12cae471a4b7ef32a7e298c614f34d17bb",
     "id": "d65bd6a7c7632290"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-09-26T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006777",
+    "raw_hash": "a2c847ce6d65a3a39a0fd9c0504754b4279629d8387579f34ec8ee973bf553ce",
+    "id": "dd048607e2e4c1c8"
   }
 ]
