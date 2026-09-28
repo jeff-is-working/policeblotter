@@ -5620,6 +5620,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-26T00:00:00",
+    "nature": "INTERFERING WITH REPORTING OF DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "1def12d210fbb9f41feb7d0c49b3843fdc21f5263a138c48ee42374139d1a441",
+    "id": "296825cd0c62b7ed"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-26T00:00:00",
     "nature": "DRIVING UNDER THE INFLUENCE",
     "location_block": "",
     "city": "",
