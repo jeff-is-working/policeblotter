@@ -1,0 +1,50 @@
+[
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "UNLAWFUL IMPRISONMENT DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "21398de71f17a4eb03dbf0726c00799f2bd0cabf7a7e83e5781ec7989c635544",
+    "id": "7b943a95664ba17b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00861536",
+    "raw_hash": "02fb635a367a603dc72e84ba7279625fa4a0a910a948be521c7b7aa5a6b0e1c1",
+    "id": "895a26190817de95"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "FELONY VIOLATION OF PROTECTION ORDER DV (2 PRIOR)",
+    "location_block": "",
+    "city": "",
+    "case_number": "241008934",
+    "raw_hash": "41f69d11b8b59b3f5a22f07a343c54e29652cbe8c02759786cd24bac0dcf508b",
+    "id": "c97fddea74648347"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "STALKING DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "823d9b9687d653ec530c949ea0846b4d530d8eadf3105e051144c5f8580704f9",
+    "id": "d8c9884f57fa20df"
+  }
+]
