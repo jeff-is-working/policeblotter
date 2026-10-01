@@ -1804,6 +1804,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-06-25T00:00:00",
+    "nature": "IDENTITY THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610084634",
+    "raw_hash": "e20d5fa6e537bfb4179a43dc1d699f4cf75fd11784dbae1afe5d3478ce16cdc9",
+    "id": "05cc1682a4128e6b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-06-25T00:00:00",
     "nature": "POSSESSION OF DRUG PARAPHERNALIA",
     "location_block": "",
     "city": "",

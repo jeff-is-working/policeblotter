@@ -40,6 +40,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-01-02T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE WHILE ARMED",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610001934",
+    "raw_hash": "605f43191515e511e10cdd3f596809215dea58bebb215d35bab323e137842614",
+    "id": "9edafa0450b0bd63"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-01-02T00:00:00",
     "nature": "ASSAULT 1ST DEGREE WHILE ARMED WITH A DEADLY WEAPON",
     "location_block": "",
     "city": "",
