@@ -460,6 +460,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-03-19T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610037434",
+    "raw_hash": "9fe29ed525301d1777300d35ebd6db7fa9f278ed3e42d06097bf984022132004",
+    "id": "2f213323170daf03"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-03-19T00:00:00",
     "nature": "ASSAULT 2ND DEGREE DOMESTIC VIOLENCE STRANGULATION",
     "location_block": "",
     "city": "",

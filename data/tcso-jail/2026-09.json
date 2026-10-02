@@ -6340,6 +6340,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-30T00:00:00",
+    "nature": "VEHICLE PROWL 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610130734",
+    "raw_hash": "d3b1643c326525519d0cc6ffafbe0ac5d65d2aad6cfb36c9f193616e4e16c9ec",
+    "id": "3958bc63d746b6b6"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-30T00:00:00",
     "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
     "location_block": "",
     "city": "",
@@ -6406,6 +6418,18 @@
     "case_number": "2410120134",
     "raw_hash": "798970a7634c631bd9e5ccb3c2deb23bac8ceccc45cd2cdb8c9838267f795f34",
     "id": "6218f9d67eae66a8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-30T00:00:00",
+    "nature": "THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610130734",
+    "raw_hash": "e378bcb14fe941671a89421b6366055e15b208ec28c7f36ff85073596583426b",
+    "id": "64630cbc18bdc606"
   },
   {
     "source": "tcso-jail",

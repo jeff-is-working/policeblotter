@@ -7,9 +7,69 @@
     "nature": "UNLAWFUL IMPRISONMENT DOMESTIC VIOLENCE",
     "location_block": "",
     "city": "",
+    "case_number": "2610130834",
+    "raw_hash": "16f350f7077cb0f438209e59240da30f84d56cf7d2fa8405ec0db2c4555f03b1",
+    "id": "044238946c992750"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "TELEPHONE HARASSMENT DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610130834",
+    "raw_hash": "baa2748c8c58fcc3f3fcceb8417d3de77abfb6022fa5b03c6231a669cfc1bef1",
+    "id": "0b82857af8035639"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE - LAW ENFORCEMENT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610117634",
+    "raw_hash": "d02a3a7ee857cbcd598ef953746185297eff22ba52b359818130d45f06975c87",
+    "id": "2a0ebf0b1ff52b80"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610130834",
+    "raw_hash": "8682bee8ad1ba561ea21512b38173561512a11a37862dfc1c3629d980fc4ddd7",
+    "id": "5f1833c746a7e8c0"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "UNLAWFUL IMPRISONMENT DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
     "case_number": "CHARGE:",
     "raw_hash": "21398de71f17a4eb03dbf0726c00799f2bd0cabf7a7e83e5781ec7989c635544",
     "id": "7b943a95664ba17b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "CRIMINAL TRESPASS 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610117634",
+    "raw_hash": "149e876e4f2dc1cdce4e31160d80b9ecfaff58c66c09275defea420c76e964d9",
+    "id": "829dc39a68a26c01"
   },
   {
     "source": "tcso-jail",
@@ -46,5 +106,41 @@
     "case_number": "CHARGE:",
     "raw_hash": "823d9b9687d653ec530c949ea0846b4d530d8eadf3105e051144c5f8580704f9",
     "id": "d8c9884f57fa20df"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "STALKING DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610130834",
+    "raw_hash": "f001b5f01a4a35845f3985f156fa3b79f17ce719e691b377cacd89f276d5bab6",
+    "id": "d9096e254460de96"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610117634",
+    "raw_hash": "43f56960c160bc170be58e9950a36aca7f92eb2b0820db70746fbc3878928bea",
+    "id": "e386b7a1e0b47898"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
+    "nature": "RESISTING ARREST",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610130834",
+    "raw_hash": "3d1fa1364e266b927e8a454feba20b27e01dbe05df385f703f20c82e12c92812",
+    "id": "ee0c4252b4c48d1b"
   }
 ]
