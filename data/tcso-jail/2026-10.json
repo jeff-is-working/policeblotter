@@ -40,6 +40,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-01T00:00:00",
+    "nature": "FELONY VIOLATION OF PROTECTION ORDER DV (2 PRIOR)",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410089334",
+    "raw_hash": "e1334c11a6ef42e366695e2eb16e47d0587fd6d7d7ea7d3ab61c57547061eb62",
+    "id": "3baf5ed7b3e9a8d9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-01T00:00:00",
     "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
     "location_block": "",
     "city": "",
@@ -142,5 +154,29 @@
     "case_number": "2610130834",
     "raw_hash": "3d1fa1364e266b927e8a454feba20b27e01dbe05df385f703f20c82e12c92812",
     "id": "ee0c4252b4c48d1b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-02T00:00:00",
+    "nature": "BURGLARY 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "f7b8784ad6af2be07b521bc7bb4473d249081082a832568027ea68f811f1aa18",
+    "id": "a2c70202a8104fa9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-02T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "3ece28d758d124d60f8fe9a0aebeecb5c95d3322cb5043f2856822f0d92f539f",
+    "id": "cb6f930e8724487e"
   }
 ]

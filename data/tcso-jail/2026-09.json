@@ -6304,6 +6304,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-29T00:00:00",
+    "nature": "THEFT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610130334",
+    "raw_hash": "55d7cb7b5ce2da2417fcd232e0d71edef37e2f6aa0c0dd47d91d50b0ace77d81",
+    "id": "d845d820043e8b48"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-29T00:00:00",
     "nature": "USE/DELIVER DRUG PARAPHERNALIA",
     "location_block": "",
     "city": "",
