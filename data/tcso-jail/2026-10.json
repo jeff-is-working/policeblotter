@@ -184,6 +184,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-02T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "b9d18803f345e415bf0259d67f54e2b5fcf5f13382643ce112e7589014215882",
+    "id": "60f2dedea20cec3c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-02T00:00:00",
     "nature": "BURGLARY 1ST DEGREE",
     "location_block": "",
     "city": "",
@@ -202,5 +214,65 @@
     "case_number": "CHARGE:",
     "raw_hash": "3ece28d758d124d60f8fe9a0aebeecb5c95d3322cb5043f2856822f0d92f539f",
     "id": "cb6f930e8724487e"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "ANIMAL CRUELTY 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510107734",
+    "raw_hash": "f09b42a39ad777f85221209a21bf3b10afcde120aacc45bb08ed6f1169b54dde",
+    "id": "10f1c4c968596200"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "POSSESSION OF DANGEROUS WEAPON",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "6725da4c7e13e8277ca0daedd2a62b86caabffbfa13e010ce2a2c01ce1e0bac2",
+    "id": "1285aa567e7d42ba"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "DWLS 2nd DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00501144",
+    "raw_hash": "4549f6073484d8e4aec6b46dc780db397b1f7eee894d03c1f2f7465cc7c83c81",
+    "id": "20300df457b2cdfc"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00501144",
+    "raw_hash": "4ef09abece329d81ab693050b9b1928ede4bd3ebc9fd4a2ab515437c6c4ca67f",
+    "id": "b9ecfad7f6da1069"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "ANIMAL CRUELTY 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510107734",
+    "raw_hash": "c7060b2989e37bc00059d67b4562c2bb565bed384f27aa60f5ad6d156b9e9de3",
+    "id": "d5f84ff1261d36ed"
   }
 ]

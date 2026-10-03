@@ -691,6 +691,30 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006958",
+    "raw_hash": "80a0a9c1d5396e63d0b4a32b69d0092c81b784cb1deb33b6b8199534a2edc696",
+    "id": "07c8edb1de526073"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006957",
+    "raw_hash": "d3d6923721d6048d2b6d9aebff2101327d98ef0b0469fe18b56b63ec16fea207",
+    "id": "0e211e9a335f7013"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006954",
     "raw_hash": "425b8dff26eaee23319284123a024544fbe979ac6787487350ef7c6873e8a14d",
     "id": "131e56937db3e651"
@@ -703,9 +727,33 @@
     "nature": "Booking",
     "location_block": "",
     "city": "Nisqually",
+    "case_number": "26006959",
+    "raw_hash": "ffd45131e0c6860fa37783ab6f3b19cc80e54fd0c868942dcbcfdd0538869158",
+    "id": "8957991dddf74c40"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
     "case_number": "26006955",
     "raw_hash": "fca716225648cfd34afae56bf5561f3477d79f3f252b249cb7dcc4a30e8d6f54",
     "id": "9dc1fdb678454c3a"
+  },
+  {
+    "source": "nisqually-jail",
+    "agency": "Nisqually Jail",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "Booking",
+    "location_block": "",
+    "city": "Nisqually",
+    "case_number": "26006956",
+    "raw_hash": "253136efd6f2942324d097c3e31f295450db7a5cd2fc256588c44e91f6a84965",
+    "id": "d00e0d67f9637363"
   },
   {
     "source": "nisqually-jail",
