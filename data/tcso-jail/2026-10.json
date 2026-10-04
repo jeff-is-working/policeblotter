@@ -244,12 +244,48 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-03T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "260000326",
+    "raw_hash": "f0662f3f202b7c50495187b42b10c6ee7230dbfd233c8674cae7dda4aa55ab14",
+    "id": "18e4a9e3080a5b7e"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
     "nature": "DWLS 2nd DEGREE",
     "location_block": "",
     "city": "",
     "case_number": "T00501144",
     "raw_hash": "4549f6073484d8e4aec6b46dc780db397b1f7eee894d03c1f2f7465cc7c83c81",
     "id": "20300df457b2cdfc"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "ATTEMPTED ARSON 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610092434",
+    "raw_hash": "a1e365ca4199137a6f8e10a7b835b7ffec6b28477d3163c39e5acebbb22662ce",
+    "id": "29c82fb8ee9ebda6"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "CRIMINAL IMPERSONATION 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "202605600",
+    "raw_hash": "f9389c648914e4c592fa8d614e2b4747113d267b1a19f98874171cd51ef78c98",
+    "id": "48f0da154adb1b84"
   },
   {
     "source": "tcso-jail",
@@ -268,11 +304,35 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-03T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "1f136815d89e2f21891d477e819c319ca46f7fe1e443bbd15b6c97d00146ac62",
+    "id": "d47830bbf72782ff"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
     "nature": "ANIMAL CRUELTY 2ND DEGREE",
     "location_block": "",
     "city": "",
     "case_number": "2510107734",
     "raw_hash": "c7060b2989e37bc00059d67b4562c2bb565bed384f27aa60f5ad6d156b9e9de3",
     "id": "d5f84ff1261d36ed"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-03T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510143434",
+    "raw_hash": "015fe97f463fb2fd3aa4157965f1350cbb14bead2b1b8ffbe3131340a9df1373",
+    "id": "ea34eb36db9f3895"
   }
 ]
