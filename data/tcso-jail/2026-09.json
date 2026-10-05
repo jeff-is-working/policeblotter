@@ -6538,5 +6538,17 @@
     "case_number": "26DV0922",
     "raw_hash": "97ff37f25707745d022877f8becb38df5ff191d405ac100c9cc4b25f66aaab71",
     "id": "bf1b30aac22a4669"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-30T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610130734",
+    "raw_hash": "fe9f1cbb7f90409072a39bb0ab3617b196603d88523a7b4d570a1dd8d26c7053",
+    "id": "c8b874a36ad41ad5"
   }
 ]
