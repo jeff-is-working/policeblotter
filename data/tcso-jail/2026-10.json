@@ -1012,6 +1012,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-05T00:00:00",
+    "nature": "MALICIOUS MISCHIEF 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610133034",
+    "raw_hash": "ffae526ab4d28f3264f1780553ccb20a441f6486ba90038b87479a20666c1acc",
+    "id": "80f0c4dc0723cee8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-05T00:00:00",
     "nature": "POSSESSION OF CONTROLLED SUBSTANCE IN CORRECTIONAL INSTITUTION",
     "location_block": "",
     "city": "",
@@ -1204,12 +1216,36 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-05T00:00:00",
+    "nature": "FAILURE TO STOP AND GIVE INFORMATION",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610133134",
+    "raw_hash": "0dd432438e30dcd253588b93a53257a29bb62e03f527682b2631bd3f4fc2395c",
+    "id": "c98f2240ea772419"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-05T00:00:00",
     "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
     "location_block": "",
     "city": "",
     "case_number": "26M00493",
     "raw_hash": "49c072bec4d1cc30e20443b49f65265c3d339ec0d6af7f3c12c179ec138c0c3a",
     "id": "d372fa4fa67fdc0c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-05T00:00:00",
+    "nature": "ESCAPE 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610133034",
+    "raw_hash": "6dddea957b51eb998fa73d0985fac24f015c77bac9e75309a81d28c2caf1c789",
+    "id": "ddd62f2a25cbc402"
   },
   {
     "source": "tcso-jail",
@@ -1258,6 +1294,30 @@
     "case_number": "CHARGE:",
     "raw_hash": "6c19dee6fc96528a55ab6321dafbab0654730a98e235f7259f2098e57704b61e",
     "id": "f4f13f145d30cf95"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-05T00:00:00",
+    "nature": "POSSESSION OF STOLEN FIREARM",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610133134",
+    "raw_hash": "ac21c70a674303534946a5ccf6683a3991f1d8ded5b4552b4412fd83f528c998",
+    "id": "fd74496b49832178"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-06T00:00:00",
+    "nature": "UNLAWFUL POSSESSION OF A FIREARM 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610132934",
+    "raw_hash": "cb687ffca44a944b99669c606f534e5bc26547447f98062e669e240b15341945",
+    "id": "0bb6fc14e02e10b3"
   },
   {
     "source": "tcso-jail",
@@ -2026,5 +2086,41 @@
     "case_number": "CHARGE:",
     "raw_hash": "5ee3d31f9a3f89ac75c6be585d7a60f496e932e2e5f196ae8b64e07b3a996e9b",
     "id": "ff3f5072b01c107a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-08T00:00:00",
+    "nature": "VEHICLE PROWL 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410130334",
+    "raw_hash": "481e35030170df5d3faea5a624c9aa3482da6c83101f209fa48d9e5c99431990",
+    "id": "25ebb752cb2bc2b8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-08T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00558489",
+    "raw_hash": "434618679befd07ab08a4851d11ec6a97c4b79cf8d328f97d2c7fe2edf9d1853",
+    "id": "51f2e7112fb33657"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-08T00:00:00",
+    "nature": "VIOLATION OF A PROTECTION ORDER (NON DOMESTIC VIOLENCE)",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "bdc353e798a674c6ef9522ef205f843ca82624b581633c5cabb9748b543352c7",
+    "id": "b512ba740d51ae23"
   }
 ]
