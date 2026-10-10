@@ -2422,5 +2422,77 @@
     "case_number": "2510072134",
     "raw_hash": "c57a529f66b11754c37514580bd908ca1b3842913a8c0820ad06ac015129f4c5",
     "id": "d4f1302cc3ec774d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-10T00:00:00",
+    "nature": "POSSESSION OF DRUG PARAPHERNALIA",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00873437",
+    "raw_hash": "09710d185f1cd63017842a44cf00a96e105b166adeba1370fbdc66b7c06f04b8",
+    "id": "21271fcca5db94a3"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-10T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00876223",
+    "raw_hash": "9ac335b06d83787fffbf30ea7466eedd9ae2c3d2ef5dcc30fdeb81498680397f",
+    "id": "4dbae0a3ffb54c30"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-10T00:00:00",
+    "nature": "POSSESSION, USE OF CONTROLLED SUBSTANCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00873437",
+    "raw_hash": "7296d36a47bb63f05d7a5fe6548a4ddda3559052698c5a7dd936ade95564a1e7",
+    "id": "653bc81b8a2a34df"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-10T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00873436",
+    "raw_hash": "23c4ae8ca61eb2e5023d4f0571f73f1bcd881db707fd165a5d547e273632e591",
+    "id": "ca4be0f265ba3bf2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-10T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00900331",
+    "raw_hash": "b27d235350d4ad1bab456306b0d155d212c9cfa73e65710219dc20b56fe2c1ec",
+    "id": "fa1ecc0a5ae78950"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-10T00:00:00",
+    "nature": "HIT AND RUN UNATTENDED - VEHICLE AND/OR PROPERTY",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00876223",
+    "raw_hash": "ede172d405b9803fd37ac3b59f2f34fb1ed069602df5298a1ab4f745aab0d65d",
+    "id": "ff3d41fa9361e9de"
   }
 ]
