@@ -6124,6 +6124,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-09-28T00:00:00",
+    "nature": "MAKING A FALSE OR MISLEADING STATEMENT TO A PUBLIC SERVANT",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510101934",
+    "raw_hash": "6adfb5a3895f0a31f9493031f50ed840bf7810cf3c81aa4dd7e8f99b445ab3bd",
+    "id": "cd0a9df842e3cca4"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-09-28T00:00:00",
     "nature": "DWLS 1st DEGREE",
     "location_block": "",
     "city": "",
