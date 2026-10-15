@@ -879,6 +879,18 @@
     "source": "tcso-jail",
     "agency": "Thurston County Sheriff",
     "type": "booking",
+    "datetime": "2026-08-03T00:00:00",
+    "nature": "TAKING MOTOR VEHICLE WITHOUT PERMISSION 2ND",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610048434",
+    "raw_hash": "671075713b6c3fe5d725e99aafe58f94a47168b02ebd7a34d896127062653189",
+    "id": "fe7ceca39189e0a8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
     "datetime": "2026-08-04T00:00:00",
     "nature": "UPCS WITH INTENT TO DELIVER SYNTHETIC NARCOTIC",
     "location_block": "",

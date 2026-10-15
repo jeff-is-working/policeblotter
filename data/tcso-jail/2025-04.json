@@ -4,12 +4,48 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2025-04-07T00:00:00",
+    "nature": "ASSAULT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510042734",
+    "raw_hash": "b26c829c92b4657ab3b3a2268ef4a1966b068edbc01c7b9787319aeb7d22f5b0",
+    "id": "049bf1679e70fae0"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-04-07T00:00:00",
     "nature": "HARASSMENT THREAT TO KILL",
     "location_block": "",
     "city": "",
     "case_number": "2510042734",
     "raw_hash": "3fb4352af89cf7b14de92cfc3089d9df45f91b9d5cb1b5ffe08545f566ec579c",
     "id": "1535897c001d5d3d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-04-07T00:00:00",
+    "nature": "BURGLARY 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510042734",
+    "raw_hash": "7e85effd07de946f1afd6de2dcf99d504bf640ed557dbd16ca071d35024980bc",
+    "id": "3990f3b1699d2f9f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2025-04-07T00:00:00",
+    "nature": "INDECENT LIBERTIES",
+    "location_block": "",
+    "city": "",
+    "case_number": "2510042734",
+    "raw_hash": "4e787945078591b929f9d491fac94dfee546a29bfcae26c392069952f68c5670",
+    "id": "46fdb5259ed54d2a"
   },
   {
     "source": "tcso-jail",
