@@ -4204,6 +4204,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-16T00:00:00",
+    "nature": "ASSAULT 2ND DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "447a96b2a4fc14ae7acabd9e44d9cba72fbbb76e9feb0118f5d4d7a03b3b4860",
+    "id": "2091df7d1c60232a"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-16T00:00:00",
     "nature": "THEFT 2ND DEGREE",
     "location_block": "",
     "city": "",
@@ -4234,6 +4246,18 @@
     "case_number": "2610082734",
     "raw_hash": "41eb97326c106df81d8970233f943833f9595e6b0fe69bc4512d5e47b7f027d5",
     "id": "54f906fad36c90eb"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-16T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00493328",
+    "raw_hash": "ad8beac508e4608e1ff14dc21e58a6c751c5f8c309ef5c7c9cdb4acdaec0c2f3",
+    "id": "59cfbe3aef3b267d"
   },
   {
     "source": "tcso-jail",
@@ -4282,5 +4306,113 @@
     "case_number": "2610138434",
     "raw_hash": "34744dcb14889f39ef5bb698fa5d07b49ec0b323816ccc4ca76be0e26ba387ba",
     "id": "f580783f3c1172b1"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00493329",
+    "raw_hash": "748dbf79e5b4f1bc9e806fcdb05162e852254cd09a06c68462f17f4c6fe0e110",
+    "id": "049a4548b5889e6b"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
+    "nature": "OBSTRUCTING A LAW ENFORCEMENT OFFICER",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610035334",
+    "raw_hash": "4ff2ed24ea44c99290f199c56437535dd80b53d6bfc0ca41e91c84f35a401a55",
+    "id": "175535ca3c9e9680"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310033034",
+    "raw_hash": "4959dc3b62cf356aacb0ba9dd641a48c1b27c44657350abd75973c10e85165b3",
+    "id": "1de970e6be8ca73d"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
+    "nature": "POSSESSION OF CONTROLLED SUBSTANCE IN CORRECTIONAL INSTITUTION",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610040934",
+    "raw_hash": "4459612fc693f3623b9767b2573d4b8285861657f24662ebe60d01abaaa96b7b",
+    "id": "2a0952a7347d9aa2"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
+    "nature": "THEFT 3RD DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610035334",
+    "raw_hash": "2c663e220ae9dc119c4354f56ccec35df60f3cb847070b032f47be00e347d25b",
+    "id": "4ff3b7328719e67f"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
+    "nature": "UNLAWFUL POSSESSION OF A FIREARM 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610035334",
+    "raw_hash": "752b2831722a29ff774f7beef4fedeb7038026151c42b57e8e157c085680b78c",
+    "id": "51390da11a1c5f18"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
+    "nature": "UNLAWFUL IMPRISONMENT DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310033034",
+    "raw_hash": "663ab7862854b1750b273ba563de6e9a787cef464f5fec5e1709a0396f9528c7",
+    "id": "83d30431b933c149"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
+    "nature": "HARASSMENT IN PRESENCE OF CHILD DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2310033034",
+    "raw_hash": "0af65a9ee96e5c9ac6fe126294dbb351361f5e8b5dbece97a9864cd574fe6ecd",
+    "id": "c9b9f6732d6f60d4"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CR101529",
+    "raw_hash": "e8073342d38c9ba4a91819b1ae13262602cf8d68030024b2a7f6db7983aab488",
+    "id": "ca365f77a4f09507"
   }
 ]
