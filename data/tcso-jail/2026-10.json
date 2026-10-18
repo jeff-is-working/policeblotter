@@ -4396,6 +4396,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-17T00:00:00",
+    "nature": "UPCS WITH INTENT TO DELIVER OPIATE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "658873a7154438ed6c0b9034dcb5bae630d821140c8d26f41593a4ce7e3ff607",
+    "id": "8fa036ffb3157287"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-17T00:00:00",
     "nature": "HARASSMENT IN PRESENCE OF CHILD DOMESTIC VIOLENCE",
     "location_block": "",
     "city": "",
@@ -4414,5 +4426,41 @@
     "case_number": "CR101529",
     "raw_hash": "e8073342d38c9ba4a91819b1ae13262602cf8d68030024b2a7f6db7983aab488",
     "id": "ca365f77a4f09507"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-18T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE (1 OR MORE PRIOR IN LAST TEN YEARS)",
+    "location_block": "",
+    "city": "",
+    "case_number": "6A0381830",
+    "raw_hash": "08a358da2aae0cf5948c8e5feb304fa0cb53b84c4c70fd1c8d5d9dc8309223bc",
+    "id": "4be45f6cd001aed6"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-18T00:00:00",
+    "nature": "RESIDENTIAL BURGLARY DOMESTIC VIOL",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "c17fb3da51e372ae2fadddecbc867ff241a58ee71a590f3b060938a67b1af36d",
+    "id": "7e4ff336d42073f8"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-18T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "7Z0875268",
+    "raw_hash": "1729431b00d9b19f5cf5ec5edbc73163ec4f355f0312e6c7df4bc6f9d5d10595",
+    "id": "a92cea59ff4c0581"
   }
 ]
