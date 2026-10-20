@@ -4516,6 +4516,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-19T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "CHARGE:",
+    "raw_hash": "63a9a90e3e403f9ad83f5c10a6ea96372e9699f12ac15b0f97cda050a715fa90",
+    "id": "0139e6a0137dd8d4"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-19T00:00:00",
     "nature": "TRIP PERMIT VIOLATION",
     "location_block": "",
     "city": "",
@@ -4630,5 +4642,29 @@
     "case_number": "1A0679493",
     "raw_hash": "ac0c22608516c474e9488db0d94e99cc20653cf5fba006c3ea52e6831c541c93",
     "id": "fb1afb391e9db57c"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-20T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE DOMESTIC VIOLENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "26M00449",
+    "raw_hash": "b40eb728e0a5e3a06838b8778a6c0d27728554fcc8b15801c9bb3ce2ae575f28",
+    "id": "4110762d98e58bd7"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-20T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00000472",
+    "raw_hash": "cf9d77adf1fd5f495c4b22378974f631355114230d760483ff05756e298cb2c0",
+    "id": "629540b61f31ffcd"
   }
 ]
