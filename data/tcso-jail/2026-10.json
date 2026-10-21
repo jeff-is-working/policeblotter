@@ -4132,6 +4132,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-15T00:00:00",
+    "nature": "TRAFFICKING IN STOLEN PROPERTY 1ST DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2610138334",
+    "raw_hash": "49efb4c74ff53ab2baad92350421a6a6d5f7390d3539313469f206710789d16f",
+    "id": "c72151ccfae06973"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-15T00:00:00",
     "nature": "POSSESSION, USE OF CONTROLLED SUBSTANCE",
     "location_block": "",
     "city": "",
@@ -4654,6 +4666,18 @@
     "case_number": "26M00449",
     "raw_hash": "b40eb728e0a5e3a06838b8778a6c0d27728554fcc8b15801c9bb3ce2ae575f28",
     "id": "4110762d98e58bd7"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-20T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00928224",
+    "raw_hash": "555cad37b658688f6dc6d72b29a849e5a87c94dfc9c752e27577a631d3a14b0c",
+    "id": "5eb66e22a16bedaf"
   },
   {
     "source": "tcso-jail",
