@@ -5008,6 +5008,18 @@
     "agency": "Thurston County Sheriff",
     "type": "booking",
     "datetime": "2026-10-22T00:00:00",
+    "nature": "ASSAULT 4TH DEGREE",
+    "location_block": "",
+    "city": "",
+    "case_number": "2410048334",
+    "raw_hash": "697d18e0f92f4ddd4d4411f032b40c1cddcfc9430cdc430b761eba51aa9792bd",
+    "id": "9da0ff1d03c1afbe"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-22T00:00:00",
     "nature": "OPERATING A VEHICLE WITHOUT AN IGNITION INTERLOCK WHEN REQUIRED",
     "location_block": "",
     "city": "",
@@ -5038,5 +5050,17 @@
     "case_number": "T00501152",
     "raw_hash": "08658e0a395ec112001d2f7e3a109ebe495804d528795bd3aead37a5e43d43ab",
     "id": "f7529b37587744a9"
+  },
+  {
+    "source": "tcso-jail",
+    "agency": "Thurston County Sheriff",
+    "type": "booking",
+    "datetime": "2026-10-23T00:00:00",
+    "nature": "DRIVING UNDER THE INFLUENCE",
+    "location_block": "",
+    "city": "",
+    "case_number": "T00479247",
+    "raw_hash": "00a97c654d73a24135292f3c78abc613ed888c46ae60e76c5088a8d3c8a1d823",
+    "id": "e4b2692ee8fd7e22"
   }
 ]
